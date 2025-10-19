@@ -46,8 +46,8 @@ export const metadata = {
     process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000"
   ),
   title: {
-    default: "عیب‌یابی خودرو | تشخیص مشکلات ماشین | کار فیکس",
-    template: "%s | کار فیکس - عیب‌یابی خودرو",
+    default: "عیب‌یابی خودرو | تشخیص مشکلات ماشین | تعمیرگاه مولانا",
+    template: "%s | تعمیرگاه مولانا - عیب‌یابی خودرو",
   },
   description:
     "سایت تخصصی عیب‌یابی خودرو با امکان شنیدن صداهای مشکلات، مقایسه خودروها و راهنمای جامع تعمیرات. تشخیص دقیق مشکلات مکانیکی و ارائه راه‌حل‌های کاربردی.",
@@ -58,16 +58,16 @@ export const metadata = {
     "مشکلات مکانیکی",
     "صداهای خودرو",
     "مقایسه خودرو",
-    "کار فیکس",
+    "تعمیرگاه مولانا",
     "تعمیرگاه",
     "مشکلات موتور",
     "عیب یابی ماشین",
     "راهنمای تعمیر خودرو",
     "تشخیص عیب خودرو",
   ],
-  authors: [{ name: "کار فیکس" }],
-  creator: "کار فیکس",
-  publisher: "کار فیکس",
+  authors: [{ name: "تعمیرگاه مولانا" }],
+  creator: "تعمیرگاه مولانا",
+  publisher: "تعمیرگاه مولانا",
   alternates: {
     canonical: "/",
   },
@@ -86,8 +86,8 @@ export const metadata = {
     type: "website",
     locale: "fa_IR",
     url: "/",
-    siteName: "کار فیکس - عیب‌یابی خودرو",
-    title: "عیب‌یابی خودرو | تشخیص مشکلات ماشین | کار فیکس",
+    siteName: "تعمیرگاه مولانا - عیب‌یابی خودرو",
+    title: "عیب‌یابی خودرو | تشخیص مشکلات ماشین | تعمیرگاه مولانا",
     description:
       "سایت تخصصی عیب‌یابی خودرو با امکان شنیدن صداهای مشکلات، مقایسه خودروها و راهنمای جامع تعمیرات. تشخیص دقیق مشکلات مکانیکی و ارائه راه‌حل‌های کاربردی.",
     images: [
@@ -101,7 +101,7 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "عیب‌یابی خودرو | تشخیص مشکلات ماشین | کار فیکس",
+    title: "عیب‌یابی خودرو | تشخیص مشکلات ماشین | تعمیرگاه مولانا",
     description:
       "سایت تخصصی عیب‌یابی خودرو با امکان شنیدن صداهای مشکلات، مقایسه خودروها و راهنمای جامع تعمیرات.",
     images: ["/bmw-png6.png"],
@@ -141,8 +141,8 @@ export default function RootLayout({ children }) {
           {JSON.stringify({
             "@context": "https://schema.org",
             "@type": "AutomotiveRepairShop",
-            name: "تعمیرگاه مولانا - کار فیکس",
-            alternateName: "کار فیکس",
+            name: "تعمیرگاه مولانا - تعمیرگاه مولانا",
+            alternateName: "تعمیرگاه مولانا",
             description:
               "تعمیرگاه تخصصی خودرو با خدمات عیب‌یابی، تعمیر و نگهداری انواع خودرو",
             url: process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000",
@@ -212,8 +212,8 @@ export default function RootLayout({ children }) {
           {JSON.stringify({
             "@context": "https://schema.org",
             "@type": "WebSite",
-            name: "کار فیکس - عیب‌یابی خودرو",
-            alternateName: "کار فیکس",
+            name: "تعمیرگاه مولانا - عیب‌یابی خودرو",
+            alternateName: "تعمیرگاه مولانا",
             description:
               "سایت تخصصی عیب‌یابی خودرو با امکان شنیدن صداهای مشکلات، مقایسه خودروها و راهنمای جامع تعمیرات",
             url: process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000",
@@ -286,7 +286,7 @@ export default function RootLayout({ children }) {
           {JSON.stringify({
             "@context": "https://schema.org",
             "@type": "Organization",
-            name: "کار فیکس",
+            name: "تعمیرگاه مولانا",
             alternateName: "تعمیرگاه مولانا",
             description:
               "تعمیرگاه تخصصی خودرو با بیش از 10 سال تجربه در عیب‌یابی و تعمیر انواع خودرو",

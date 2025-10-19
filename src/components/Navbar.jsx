@@ -5,7 +5,7 @@ import { useTab } from "../context/TabContext";
 
 // Memoized tab data to prevent unnecessary re-renders
 const TABS = [
-  { id: "", label: "کار فیکس" },
+  { id: "", label: "تعمیرگاه مولانا" },
   { id: "sound-check", label: "بررسی صدا" },
   { id: "issueCheck", label: "عیب یابی خودرو خارجی" },
   { id: "issues", label: "لیست مشکلات" },
@@ -98,7 +98,7 @@ export default function Navbar() {
         >
           <HamburgerIcon />
         </button>
-        <h1 className="font-bold text-lg text-white">کار فیکس</h1>
+        <h1 className="font-bold text-lg text-white">تعمیرگاه مولانا</h1>
       </nav>
 
       {/* Mobile Menu */}

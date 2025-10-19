@@ -1,4 +1,4 @@
-# SEO Optimization Report - کار فیکس (Kar Fix)
+# SEO Optimization Report - تعمیرگاه مولانا(molana repair shop)
 
 ## Overview
 
@@ -76,7 +76,7 @@ This report outlines the comprehensive SEO optimizations implemented for the mec
 - عیب یابی خودرو (Car Diagnosis)
 - تشخیص مشکلات ماشین (Car Problem Detection)
 - تعمیر خودرو (Car Repair)
-- کار فیکس (Kar Fix)
+- تعمیرگاه مولانا (molana repair shop)
 
 ### Secondary Keywords:
 

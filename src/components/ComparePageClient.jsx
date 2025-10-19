@@ -122,7 +122,7 @@ export default function ComparePageClient() {
   const comparisonJsonLd = {
     "@context": "https://schema.org",
     "@type": "WebApplication",
-    name: "مقایسه خودروها - کار فیکس",
+    name: "مقایسه خودروها - تعمیرگاه مولانا",
     description: "ابزار مقایسه خودروها با ویژگی‌های فنی کامل",
     url:
       (process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000") +

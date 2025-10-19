@@ -1,8 +1,8 @@
 // SEO utility functions and configurations
 export const seoConfig = {
-  siteName: "کار فیکس - عیب‌یابی خودرو",
+  siteName: "تعمیرگاه مولانا - عیب‌یابی خودرو",
   siteUrl: process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000",
-  defaultTitle: "عیب‌یابی خودرو | تشخیص مشکلات ماشین | کار فیکس",
+  defaultTitle: "عیب‌یابی خودرو | تشخیص مشکلات ماشین | تعمیرگاه مولانا",
   defaultDescription:
     "سایت تخصصی عیب‌یابی خودرو با امکان شنیدن صداهای مشکلات، مقایسه خودروها و راهنمای جامع تعمیرات. تشخیص دقیق مشکلات مکانیکی و ارائه راه‌حل‌های کاربردی.",
   defaultKeywords: [
@@ -12,14 +12,14 @@ export const seoConfig = {
     "مشکلات مکانیکی",
     "صداهای خودرو",
     "مقایسه خودرو",
-    "کار فیکس",
+    "تعمیرگاه مولانا",
     "تعمیرگاه",
     "مشکلات موتور",
     "عیب یابی ماشین",
     "راهنمای تعمیر خودرو",
     "تشخیص عیب خودرو",
   ],
-  author: "کار فیکس",
+  author: "تعمیرگاه مولانا",
   locale: "fa_IR",
   twitterHandle: "@karfix",
   contactInfo: {
@@ -60,7 +60,7 @@ export const generateStructuredData = (type, data = {}) => {
         description: data.description || "خدمات تخصصی عیب‌یابی و تعمیر خودرو",
         provider: {
           "@type": "AutomotiveRepairShop",
-          name: "تعمیرگاه مولانا - کار فیکس",
+          name: "تعمیرگاه مولانا - تعمیرگاه مولانا",
           telephone: seoConfig.contactInfo.phone,
           address: {
             "@type": "PostalAddress",
@@ -129,7 +129,7 @@ export const generateMetaTags = (pageData = {}) => {
           url: fullImage,
           width: 1200,
           height: 630,
-          alt: title || "کار فیکس - عیب‌یابی خودرو",
+          alt: title || "تعمیرگاه مولانا - عیب‌یابی خودرو",
         },
       ],
     },
@@ -147,7 +147,12 @@ export const generateMetaTags = (pageData = {}) => {
 
 // Common SEO keywords for different sections
 export const seoKeywords = {
-  homepage: ["عیب یابی خودرو", "تشخیص مشکلات ماشین", "تعمیر خودرو", "کار فیکس"],
+  homepage: [
+    "عیب یابی خودرو",
+    "تشخیص مشکلات ماشین",
+    "تعمیر خودرو",
+    "تعمیرگاه مولانا",
+  ],
   issues: [
     "راهنمای عیب‌یابی خودرو",
     "مشکلات خودرو",
