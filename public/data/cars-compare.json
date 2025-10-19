@@ -1,0 +1,7042 @@
+[
+  {
+    "id": 101,
+    "brand_en": "Peugeot",
+    "brand_fa": "پژو",
+    "model_fa": "206",
+    "trim": "تیپ 5",
+    "category": "هاچ‌بک",
+    "country": "فرانسه/ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1587,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 105,
+        "max_torque_nm": 142
+      },
+      "transmission": {
+        "type": "دستی",
+        "gears": 5
+      },
+      "performance": {
+        "acceleration_0_100": 11.6,
+        "fuel_combined_consumption_l_100km": 6.6
+      },
+      "safety": {
+        "airbags": 2,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": false
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "هیدرولیک"
+      },
+      "tires": {
+        "size": "185/65R14",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "ساده",
+        "ac": "دستی",
+        "power_windows": "جلو و عقب"
+      }
+    }
+  },
+  {
+    "id": 102,
+    "brand_en": "Peugeot",
+    "brand_fa": "پژو",
+    "model_fa": "207i",
+    "trim": "اتوماتیک پانوراما",
+    "category": "هاچ‌بک",
+    "country": "فرانسه/ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1587,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 105,
+        "max_torque_nm": 142
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 4
+      },
+      "performance": {
+        "acceleration_0_100": 12.6,
+        "fuel_combined_consumption_l_100km": 7.1
+      },
+      "safety": {
+        "airbags": 2,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": false
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "هیدرولیک"
+      },
+      "tires": {
+        "size": "195/55R15",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "7 اینچ لمسی",
+        "ac": "اتوماتیک",
+        "power_windows": "جلو و عقب"
+      }
+    }
+  },
+  {
+    "id": 103,
+    "brand_en": "Peugeot",
+    "brand_fa": "پژو",
+    "model_fa": "405",
+    "trim": "SLX (TU5)",
+    "category": "سدان",
+    "country": "فرانسه/ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1587,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 108,
+        "max_torque_nm": 142
+      },
+      "transmission": {
+        "type": "دستی",
+        "gears": 5
+      },
+      "performance": {
+        "acceleration_0_100": 13.5,
+        "fuel_combined_consumption_l_100km": 7.5
+      },
+      "safety": {
+        "airbags": 2,
+        "brakes": "دیسکی جلو/کاسه‌ای عقب",
+        "stability_system": false
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "هیدرولیک"
+      },
+      "tires": {
+        "size": "185/65R14",
+        "rim_type": "فولادی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "ساده",
+        "ac": "دستی",
+        "power_windows": "جلو"
+      }
+    }
+  },
+  {
+    "id": 104,
+    "brand_en": "Peugeot",
+    "brand_fa": "پژو",
+    "model_fa": "پارس",
+    "trim": "اتوماتیک ELX",
+    "category": "سدان",
+    "country": "فرانسه/ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1761,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 110,
+        "max_torque_nm": 155
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 4
+      },
+      "performance": {
+        "acceleration_0_100": 12.8,
+        "fuel_combined_consumption_l_100km": 8.5
+      },
+      "safety": {
+        "airbags": 2,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": false
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "هیدرولیک"
+      },
+      "tires": {
+        "size": "195/60R15",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "7 اینچ لمسی",
+        "ac": "دستی",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 105,
+    "brand_en": "Peugeot",
+    "brand_fa": "پژو",
+    "model_fa": "2008",
+    "trim": "توربو",
+    "category": "کراس اوور",
+    "country": "فرانسه/ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1600,
+        "breathing": "توربو THP",
+        "max_power_hp": 163,
+        "max_torque_nm": 240
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 8.2,
+        "fuel_combined_consumption_l_100km": 6.7
+      },
+      "safety": {
+        "airbags": 6,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "205/60R16",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "7 اینچ لمسی",
+        "ac": "اتوماتیک",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 106,
+    "brand_en": "Peugeot",
+    "brand_fa": "پژو",
+    "model_fa": "RCZ",
+    "trim": "فول",
+    "category": "کوپه",
+    "country": "فرانسه",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1598,
+        "breathing": "توربو THP",
+        "max_power_hp": 200,
+        "max_torque_nm": 275
+      },
+      "transmission": {
+        "type": "دستی",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 7.5,
+        "fuel_combined_consumption_l_100km": 6.8
+      },
+      "safety": {
+        "airbags": 4,
+        "brakes": "دیسکی خنک شونده",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "235/45R18",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "7 اینچ",
+        "ac": "اتوماتیک دوگانه",
+        "power_windows": "برقی"
+      }
+    }
+  },
+  {
+    "id": 201,
+    "brand_en": "Iran Khodro",
+    "brand_fa": "ایران خودرو",
+    "model_fa": "دنا",
+    "trim": "ساده",
+    "category": "سدان",
+    "country": "ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1645,
+        "breathing": "تنفس طبیعی EF7",
+        "max_power_hp": 115,
+        "max_torque_nm": 155
+      },
+      "transmission": {
+        "type": "دستی",
+        "gears": 5
+      },
+      "performance": {
+        "acceleration_0_100": 13.5,
+        "fuel_combined_consumption_l_100km": 7.7
+      },
+      "safety": {
+        "airbags": 2,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": false
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "هیدرولیک"
+      },
+      "tires": {
+        "size": "195/60R15",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "مولتی مدیا",
+        "ac": "اتوماتیک",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 202,
+    "brand_en": "Iran Khodro",
+    "brand_fa": "ایران خودرو",
+    "model_fa": "دنا پلاس",
+    "trim": "توربو اتوماتیک",
+    "category": "سدان",
+    "country": "ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1645,
+        "breathing": "توربوشارژ EF7",
+        "max_power_hp": 150,
+        "max_torque_nm": 215
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 10.5,
+        "fuel_combined_consumption_l_100km": 8.1
+      },
+      "safety": {
+        "airbags": 4,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "205/50R16",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "7 اینچ لمسی",
+        "ac": "اتوماتیک",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 203,
+    "brand_en": "Iran Khodro",
+    "brand_fa": "ایران خودرو",
+    "model_fa": "تارا",
+    "trim": "اتوماتیک V4",
+    "category": "سدان",
+    "country": "ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1587,
+        "breathing": "تنفس طبیعی TU5 پلاس",
+        "max_power_hp": 113,
+        "max_torque_nm": 144
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 13,
+        "fuel_combined_consumption_l_100km": 7.3
+      },
+      "safety": {
+        "airbags": 4,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "185/65R15",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "10 اینچ لمسی",
+        "ac": "اتوماتیک",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 204,
+    "brand_en": "Iran Khodro",
+    "brand_fa": "ایران خودرو",
+    "model_fa": "سورن",
+    "trim": "پلاس توربو",
+    "category": "سدان",
+    "country": "ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1645,
+        "breathing": "توربوشارژ EF7",
+        "max_power_hp": 150,
+        "max_torque_nm": 215
+      },
+      "transmission": {
+        "type": "دستی",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 9.5,
+        "fuel_combined_consumption_l_100km": 7.5
+      },
+      "safety": {
+        "airbags": 2,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "هیدرولیک"
+      },
+      "tires": {
+        "size": "185/65R15",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "7 اینچ لمسی",
+        "ac": "اتوماتیک",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 301,
+    "brand_en": "Saipa",
+    "brand_fa": "سایپا",
+    "model_fa": "شاهین",
+    "trim": "اتوماتیک G",
+    "category": "سدان",
+    "country": "ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1499,
+        "breathing": "توربوشارژ M15T",
+        "max_power_hp": 110,
+        "max_torque_nm": 178
+      },
+      "transmission": {
+        "type": "اتوماتیک CVT",
+        "gears": 7
+      },
+      "performance": {
+        "acceleration_0_100": 13,
+        "fuel_combined_consumption_l_100km": 7.5
+      },
+      "safety": {
+        "airbags": 2,
+        "brakes": "دیسکی جلو/کاسه‌ای عقب",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "185/65R15",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "7 اینچ لمسی",
+        "ac": "اتوماتیک",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 302,
+    "brand_en": "Saipa",
+    "brand_fa": "سایپا",
+    "model_fa": "کوییک",
+    "trim": "R پلاس اتوماتیک",
+    "category": "هاچ‌بک کراس",
+    "country": "ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1503,
+        "breathing": "تنفس طبیعی M15",
+        "max_power_hp": 87,
+        "max_torque_nm": 128
+      },
+      "transmission": {
+        "type": "اتوماتیک CVT",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 13.6,
+        "fuel_combined_consumption_l_100km": 7.7
+      },
+      "safety": {
+        "airbags": 2,
+        "brakes": "دیسکی جلو/کاسه‌ای عقب",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "185/60R14",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "7 اینچ لمسی",
+        "ac": "دستی",
+        "power_windows": "جلو"
+      }
+    }
+  },
+  {
+    "id": 303,
+    "brand_en": "Saipa",
+    "brand_fa": "سایپا",
+    "model_fa": "تیبا",
+    "trim": "صندوق‌دار",
+    "category": "سدان",
+    "country": "ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1503,
+        "breathing": "تنفس طبیعی M15",
+        "max_power_hp": 87,
+        "max_torque_nm": 128
+      },
+      "transmission": {
+        "type": "دستی",
+        "gears": 5
+      },
+      "performance": {
+        "acceleration_0_100": 13,
+        "fuel_combined_consumption_l_100km": 6.9
+      },
+      "safety": {
+        "airbags": 2,
+        "brakes": "دیسکی جلو/کاسه‌ای عقب",
+        "stability_system": false
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "هیدرولیک"
+      },
+      "tires": {
+        "size": "175/70R13",
+        "rim_type": "فولادی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "ساده",
+        "ac": "دستی",
+        "power_windows": "جلو"
+      }
+    }
+  },
+  {
+    "id": 401,
+    "brand_en": "Kia",
+    "brand_fa": "کیا",
+    "model_fa": "سراتو",
+    "trim": "وارداتی YD",
+    "category": "سدان",
+    "country": "کره جنوبی",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 2000,
+        "breathing": "تنفس طبیعی MPi",
+        "max_power_hp": 156,
+        "max_torque_nm": 194
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 9.3,
+        "fuel_combined_consumption_l_100km": 7.5
+      },
+      "safety": {
+        "airbags": 6,
+        "brakes": "دیسکی خنک شونده",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "215/45R17",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "7 اینچ لمسی",
+        "ac": "اتوماتیک دوگانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 402,
+    "brand_en": "Kia",
+    "brand_fa": "کیا",
+    "model_fa": "سورنتو",
+    "trim": "UM 2.4 GDi",
+    "category": "شاسی بلند",
+    "country": "کره جنوبی",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 2359,
+        "breathing": "تنفس طبیعی GDi",
+        "max_power_hp": 185,
+        "max_torque_nm": 241
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 10.5,
+        "fuel_combined_consumption_l_100km": 9.4
+      },
+      "safety": {
+        "airbags": 7,
+        "brakes": "دیسکی خنک شونده",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "235/60R18",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "8 اینچ لمسی",
+        "ac": "اتوماتیک سه‌گانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 501,
+    "brand_en": "Hyundai",
+    "brand_fa": "هیوندای",
+    "model_fa": "النترا",
+    "trim": "AD",
+    "category": "سدان",
+    "country": "کره جنوبی",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 2000,
+        "breathing": "تنفس طبیعی MPi",
+        "max_power_hp": 156,
+        "max_torque_nm": 195
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 9.9,
+        "fuel_combined_consumption_l_100km": 7.3
+      },
+      "safety": {
+        "airbags": 6,
+        "brakes": "دیسکی خنک شونده",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "205/55R16",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "7 اینچ لمسی",
+        "ac": "اتوماتیک دوگانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 502,
+    "brand_en": "Hyundai",
+    "brand_fa": "هیوندای",
+    "model_fa": "سانتافه",
+    "trim": "DM 2.4",
+    "category": "کراس اوور",
+    "country": "کره جنوبی",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 2359,
+        "breathing": "تنفس طبیعی GDi",
+        "max_power_hp": 188,
+        "max_torque_nm": 245
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 10.9,
+        "fuel_combined_consumption_l_100km": 9.3
+      },
+      "safety": {
+        "airbags": 7,
+        "brakes": "دیسکی خنک شونده",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "235/60R18",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "8 اینچ لمسی",
+        "ac": "اتوماتیک دوگانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 601,
+    "brand_en": "Toyota",
+    "brand_fa": "تویوتا",
+    "model_fa": "کمری",
+    "trim": "GLX 2007",
+    "category": "سدان",
+    "country": "ژاپن",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 2362,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 157,
+        "max_torque_nm": 218
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 5
+      },
+      "performance": {
+        "acceleration_0_100": 9.5,
+        "fuel_combined_consumption_l_100km": 8.5
+      },
+      "safety": {
+        "airbags": 2,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "هیدرولیک"
+      },
+      "tires": {
+        "size": "215/60R16",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "ساده",
+        "ac": "اتوماتیک دوگانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 602,
+    "brand_en": "Toyota",
+    "brand_fa": "تویوتا",
+    "model_fa": "راو 4",
+    "trim": "2018",
+    "category": "شاسی بلند",
+    "country": "ژاپن",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 2494,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 176,
+        "max_torque_nm": 233
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 9.5,
+        "fuel_combined_consumption_l_100km": 8.5
+      },
+      "safety": {
+        "airbags": 7,
+        "brakes": "دیسکی خنک شونده",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "225/65R17",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "7 اینچ",
+        "ac": "اتوماتیک دوگانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 701,
+    "brand_en": "Nissan",
+    "brand_fa": "نیسان",
+    "model_fa": "ماکسیما",
+    "trim": "اتوماتیک",
+    "category": "سدان",
+    "country": "ژاپن/ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 2988,
+        "breathing": "تنفس طبیعی V6",
+        "max_power_hp": 227,
+        "max_torque_nm": 288
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 4
+      },
+      "performance": {
+        "acceleration_0_100": 8.4,
+        "fuel_combined_consumption_l_100km": 11.5
+      },
+      "safety": {
+        "airbags": 4,
+        "brakes": "دیسکی خنک شونده",
+        "stability_system": false
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "هیدرولیک"
+      },
+      "tires": {
+        "size": "215/55R17",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "ساده",
+        "ac": "اتوماتیک",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 801,
+    "brand_en": "Mazda",
+    "brand_fa": "مزدا",
+    "model_fa": "مزدا 3",
+    "trim": "نیو (تیپ 4)",
+    "category": "سدان",
+    "country": "ژاپن/ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 2000,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 147,
+        "max_torque_nm": 187
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 5
+      },
+      "performance": {
+        "acceleration_0_100": 10.5,
+        "fuel_combined_consumption_l_100km": 8.5
+      },
+      "safety": {
+        "airbags": 6,
+        "brakes": "دیسکی خنک شونده",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "الکتروهیدرولیک"
+      },
+      "tires": {
+        "size": "205/55R16",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "ساده",
+        "ac": "اتوماتیک دوگانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 901,
+    "brand_en": "BMW",
+    "brand_fa": "ب ام و",
+    "model_fa": "سری 5",
+    "trim": "528i (F10)",
+    "category": "سدان",
+    "country": "آلمان",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1997,
+        "breathing": "توربو",
+        "max_power_hp": 245,
+        "max_torque_nm": 350
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 8
+      },
+      "performance": {
+        "acceleration_0_100": 6.2,
+        "fuel_combined_consumption_l_100km": 6.6
+      },
+      "safety": {
+        "airbags": 10,
+        "brakes": "دیسکی خنک شونده",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "دوجناغی",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "245/45R18",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "10.2 اینچ",
+        "ac": "اتوماتیک سه‌گانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1001,
+    "brand_en": "Chery",
+    "brand_fa": "فونیکس",
+    "model_fa": "تیگو 7",
+    "trim": "پرو (Pro)",
+    "category": "کراس اوور",
+    "country": "چین/ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1500,
+        "breathing": "توربوشارژ",
+        "max_power_hp": 157,
+        "max_torque_nm": 230
+      },
+      "transmission": {
+        "type": "اتوماتیک CVT",
+        "gears": 9
+      },
+      "performance": {
+        "acceleration_0_100": 10.5,
+        "fuel_combined_consumption_l_100km": 6.9
+      },
+      "safety": {
+        "airbags": 6,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "225/60R18",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "10.25 اینچ لمسی",
+        "ac": "اتوماتیک",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1002,
+    "brand_en": "Jac",
+    "brand_fa": "جک",
+    "model_fa": "S5",
+    "trim": "اتوماتیک نیوفیس",
+    "category": "کراس اوور",
+    "country": "چین/ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1997,
+        "breathing": "توربوشارژ GDI",
+        "max_power_hp": 174,
+        "max_torque_nm": 265
+      },
+      "transmission": {
+        "type": "اتوماتیک دوکلاچه",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 9.5,
+        "fuel_combined_consumption_l_100km": 8.1
+      },
+      "safety": {
+        "airbags": 6,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "هیدرولیک"
+      },
+      "tires": {
+        "size": "225/60R17",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "7 اینچ",
+        "ac": "اتوماتیک دوگانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1003,
+    "brand_en": "Renault",
+    "brand_fa": "رنو",
+    "model_fa": "تندر 90",
+    "trim": "پلاس اتوماتیک",
+    "category": "سدان",
+    "country": "فرانسه/ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1598,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 105,
+        "max_torque_nm": 140
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 4
+      },
+      "performance": {
+        "acceleration_0_100": 11.7,
+        "fuel_combined_consumption_l_100km": 8.3
+      },
+      "safety": {
+        "airbags": 2,
+        "brakes": "دیسکی جلو/کاسه‌ای عقب",
+        "stability_system": false
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "هیدرولیک"
+      },
+      "tires": {
+        "size": "185/65R15",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "ساده",
+        "ac": "دستی",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1004,
+    "brand_en": "Volvo",
+    "brand_fa": "ولوو",
+    "model_fa": "XC90",
+    "trim": "T6 Momentum",
+    "category": "شاسی بلند",
+    "country": "سوئد",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1969,
+        "breathing": "سوپرشارژ و توربوشارژ",
+        "max_power_hp": 320,
+        "max_torque_nm": 400
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 8
+      },
+      "performance": {
+        "acceleration_0_100": 6.5,
+        "fuel_combined_consumption_l_100km": 8.3
+      },
+      "safety": {
+        "airbags": 8,
+        "brakes": "دیسکی خنک شونده",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "دوجناغی",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "275/45R20",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "9 اینچ لمسی",
+        "ac": "اتوماتیک چهارگانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1005,
+    "brand_en": "Mitsubishi",
+    "brand_fa": "میتسوبیشی",
+    "model_fa": "ASX",
+    "trim": "فول",
+    "category": "کراس اوور",
+    "country": "ژاپن",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 2000,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 150,
+        "max_torque_nm": 197
+      },
+      "transmission": {
+        "type": "اتوماتیک CVT",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 10.5,
+        "fuel_combined_consumption_l_100km": 7.8
+      },
+      "safety": {
+        "airbags": 7,
+        "brakes": "دیسکی خنک شونده",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "215/60R17",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "7 اینچ",
+        "ac": "اتوماتیک",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 205,
+    "brand_en": "Iran Khodro",
+    "brand_fa": "ایران خودرو",
+    "model_fa": "سمند",
+    "trim": "LX",
+    "category": "سدان",
+    "country": "ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1761,
+        "breathing": "تنفس طبیعی TU5",
+        "max_power_hp": 110,
+        "max_torque_nm": 155
+      },
+      "transmission": {
+        "type": "دستی",
+        "gears": 5
+      },
+      "performance": {
+        "acceleration_0_100": 12.5,
+        "fuel_combined_consumption_l_100km": 8.2
+      },
+      "safety": {
+        "airbags": 2,
+        "brakes": "دیسکی جلو/کاسه‌ای عقب",
+        "stability_system": false
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "هیدرولیک"
+      },
+      "tires": {
+        "size": "185/65R15",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "ساده",
+        "ac": "دستی",
+        "power_windows": "جلو"
+      }
+    }
+  },
+  {
+    "id": 206,
+    "brand_en": "Iran Khodro",
+    "brand_fa": "ایران خودرو",
+    "model_fa": "ریو",
+    "trim": "اتوماتیک",
+    "category": "سدان",
+    "country": "ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1645,
+        "breathing": "تنفس طبیعی EF7",
+        "max_power_hp": 115,
+        "max_torque_nm": 155
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 13.2,
+        "fuel_combined_consumption_l_100km": 7.8
+      },
+      "safety": {
+        "airbags": 4,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "195/60R15",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "7 اینچ لمسی",
+        "ac": "اتوماتیک",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 304,
+    "brand_en": "Saipa",
+    "brand_fa": "سایپا",
+    "model_fa": "ساینا",
+    "trim": "اتوماتیک",
+    "category": "سدان",
+    "country": "ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1503,
+        "breathing": "تنفس طبیعی M15",
+        "max_power_hp": 87,
+        "max_torque_nm": 128
+      },
+      "transmission": {
+        "type": "اتوماتیک CVT",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 13.8,
+        "fuel_combined_consumption_l_100km": 7.9
+      },
+      "safety": {
+        "airbags": 2,
+        "brakes": "دیسکی جلو/کاسه‌ای عقب",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "185/60R14",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "7 اینچ لمسی",
+        "ac": "دستی",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 305,
+    "brand_en": "Saipa",
+    "brand_fa": "سایپا",
+    "model_fa": "آریو",
+    "trim": "اتوماتیک",
+    "category": "سدان",
+    "country": "ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1503,
+        "breathing": "تنفس طبیعی M15",
+        "max_power_hp": 87,
+        "max_torque_nm": 128
+      },
+      "transmission": {
+        "type": "اتوماتیک CVT",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 14.2,
+        "fuel_combined_consumption_l_100km": 8.1
+      },
+      "safety": {
+        "airbags": 2,
+        "brakes": "دیسکی جلو/کاسه‌ای عقب",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "175/70R13",
+        "rim_type": "فولادی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "ساده",
+        "ac": "دستی",
+        "power_windows": "جلو"
+      }
+    }
+  },
+  {
+    "id": 306,
+    "brand_en": "Saipa",
+    "brand_fa": "سایپا",
+    "model_fa": "پراید",
+    "trim": "ساده",
+    "category": "سدان",
+    "country": "ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1503,
+        "breathing": "تنفس طبیعی M15",
+        "max_power_hp": 87,
+        "max_torque_nm": 128
+      },
+      "transmission": {
+        "type": "دستی",
+        "gears": 5
+      },
+      "performance": {
+        "acceleration_0_100": 14.5,
+        "fuel_combined_consumption_l_100km": 6.5
+      },
+      "safety": {
+        "airbags": 0,
+        "brakes": "دیسکی جلو/کاسه‌ای عقب",
+        "stability_system": false
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "هیدرولیک"
+      },
+      "tires": {
+        "size": "175/70R13",
+        "rim_type": "فولادی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "ساده",
+        "ac": "دستی",
+        "power_windows": "جلو"
+      }
+    }
+  },
+  {
+    "id": 503,
+    "brand_en": "Hyundai",
+    "brand_fa": "هیوندای",
+    "model_fa": "آکسانت",
+    "trim": "اتوماتیک",
+    "category": "سدان",
+    "country": "کره جنوبی",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1600,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 123,
+        "max_torque_nm": 155
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 11.2,
+        "fuel_combined_consumption_l_100km": 7.1
+      },
+      "safety": {
+        "airbags": 6,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "195/60R15",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "7 اینچ لمسی",
+        "ac": "اتوماتیک",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 504,
+    "brand_en": "Hyundai",
+    "brand_fa": "هیوندای",
+    "model_fa": "توسان",
+    "trim": "اتوماتیک",
+    "category": "کراس اوور",
+    "country": "کره جنوبی",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 2000,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 155,
+        "max_torque_nm": 192
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 10.8,
+        "fuel_combined_consumption_l_100km": 8.7
+      },
+      "safety": {
+        "airbags": 6,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "225/60R17",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "8 اینچ لمسی",
+        "ac": "اتوماتیک دوگانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 403,
+    "brand_en": "Kia",
+    "brand_fa": "کیا",
+    "model_fa": "ریو",
+    "trim": "اتوماتیک",
+    "category": "سدان",
+    "country": "کره جنوبی",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1600,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 123,
+        "max_torque_nm": 155
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 11.5,
+        "fuel_combined_consumption_l_100km": 7.3
+      },
+      "safety": {
+        "airbags": 6,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "195/60R15",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "7 اینچ لمسی",
+        "ac": "اتوماتیک",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 404,
+    "brand_en": "Kia",
+    "brand_fa": "کیا",
+    "model_fa": "سپورتاژ",
+    "trim": "اتوماتیک",
+    "category": "کراس اوور",
+    "country": "کره جنوبی",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 2000,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 155,
+        "max_torque_nm": 192
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 10.9,
+        "fuel_combined_consumption_l_100km": 8.5
+      },
+      "safety": {
+        "airbags": 6,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "225/60R17",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "8 اینچ لمسی",
+        "ac": "اتوماتیک دوگانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 603,
+    "brand_en": "Toyota",
+    "brand_fa": "تویوتا",
+    "model_fa": "کورولا",
+    "trim": "اتوماتیک",
+    "category": "سدان",
+    "country": "ژاپن",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1800,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 140,
+        "max_torque_nm": 175
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 10.8,
+        "fuel_combined_consumption_l_100km": 7.2
+      },
+      "safety": {
+        "airbags": 7,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "205/55R16",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "7 اینچ لمسی",
+        "ac": "اتوماتیک دوگانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 604,
+    "brand_en": "Toyota",
+    "brand_fa": "تویوتا",
+    "model_fa": "پریوس",
+    "trim": "هیبرید",
+    "category": "سدان",
+    "country": "ژاپن",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1800,
+        "breathing": "هیبرید",
+        "max_power_hp": 98,
+        "max_torque_nm": 142
+      },
+      "transmission": {
+        "type": "اتوماتیک CVT",
+        "gears": 1
+      },
+      "performance": {
+        "acceleration_0_100": 10.4,
+        "fuel_combined_consumption_l_100km": 4.3
+      },
+      "safety": {
+        "airbags": 7,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "195/65R15",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "7 اینچ لمسی",
+        "ac": "اتوماتیک دوگانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 702,
+    "brand_en": "Nissan",
+    "brand_fa": "نیسان",
+    "model_fa": "آلتیما",
+    "trim": "اتوماتیک",
+    "category": "سدان",
+    "country": "ژاپن",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 2500,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 182,
+        "max_torque_nm": 244
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 8.9,
+        "fuel_combined_consumption_l_100km": 8.8
+      },
+      "safety": {
+        "airbags": 6,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "215/55R17",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "7 اینچ لمسی",
+        "ac": "اتوماتیک دوگانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 703,
+    "brand_en": "Nissan",
+    "brand_fa": "نیسان",
+    "model_fa": "جوک",
+    "trim": "اتوماتیک",
+    "category": "کراس اوور",
+    "country": "ژاپن",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 2000,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 144,
+        "max_torque_nm": 200
+      },
+      "transmission": {
+        "type": "اتوماتیک CVT",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 10.2,
+        "fuel_combined_consumption_l_100km": 7.8
+      },
+      "safety": {
+        "airbags": 6,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "215/60R17",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "7 اینچ لمسی",
+        "ac": "اتوماتیک دوگانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1101,
+    "brand_en": "Honda",
+    "brand_fa": "هوندا",
+    "model_fa": "سیویک",
+    "trim": "اتوماتیک",
+    "category": "سدان",
+    "country": "ژاپن",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1800,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 140,
+        "max_torque_nm": 174
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 10.5,
+        "fuel_combined_consumption_l_100km": 7.0
+      },
+      "safety": {
+        "airbags": 6,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "215/55R16",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "7 اینچ لمسی",
+        "ac": "اتوماتیک دوگانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1102,
+    "brand_en": "Honda",
+    "brand_fa": "هوندا",
+    "model_fa": "CR-V",
+    "trim": "اتوماتیک",
+    "category": "شاسی بلند",
+    "country": "ژاپن",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 2400,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 190,
+        "max_torque_nm": 222
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 9.8,
+        "fuel_combined_consumption_l_100km": 8.9
+      },
+      "safety": {
+        "airbags": 6,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "225/65R17",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "7 اینچ لمسی",
+        "ac": "اتوماتیک دوگانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1201,
+    "brand_en": "Mercedes-Benz",
+    "brand_fa": "مرسدس بنز",
+    "model_fa": "کلاس C",
+    "trim": "C200",
+    "category": "سدان",
+    "country": "آلمان",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1991,
+        "breathing": "توربو",
+        "max_power_hp": 184,
+        "max_torque_nm": 300
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 9
+      },
+      "performance": {
+        "acceleration_0_100": 7.3,
+        "fuel_combined_consumption_l_100km": 6.8
+      },
+      "safety": {
+        "airbags": 8,
+        "brakes": "دیسکی خنک شونده",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "225/50R17",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "10.25 اینچ لمسی",
+        "ac": "اتوماتیک سه‌گانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1202,
+    "brand_en": "Audi",
+    "brand_fa": "آئودی",
+    "model_fa": "A4",
+    "trim": "2.0 TFSI",
+    "category": "سدان",
+    "country": "آلمان",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1984,
+        "breathing": "توربو",
+        "max_power_hp": 190,
+        "max_torque_nm": 320
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 7
+      },
+      "performance": {
+        "acceleration_0_100": 7.3,
+        "fuel_combined_consumption_l_100km": 6.7
+      },
+      "safety": {
+        "airbags": 8,
+        "brakes": "دیسکی خنک شونده",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "225/50R17",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "8.3 اینچ لمسی",
+        "ac": "اتوماتیک سه‌گانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1203,
+    "brand_en": "Volkswagen",
+    "brand_fa": "فولکس واگن",
+    "model_fa": "پاسات",
+    "trim": "1.8 TSI",
+    "category": "سدان",
+    "country": "آلمان",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1798,
+        "breathing": "توربو",
+        "max_power_hp": 160,
+        "max_torque_nm": 250
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 8.5,
+        "fuel_combined_consumption_l_100km": 7.2
+      },
+      "safety": {
+        "airbags": 6,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "215/55R16",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "6.5 اینچ لمسی",
+        "ac": "اتوماتیک دوگانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1301,
+    "brand_en": "Geely",
+    "brand_fa": "جیلی",
+    "model_fa": "امگرند 7",
+    "trim": "اتوماتیک",
+    "category": "سدان",
+    "country": "چین/ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1799,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 133,
+        "max_torque_nm": 170
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 11.8,
+        "fuel_combined_consumption_l_100km": 7.8
+      },
+      "safety": {
+        "airbags": 6,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "205/55R16",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "8 اینچ لمسی",
+        "ac": "اتوماتیک دوگانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1302,
+    "brand_en": "BYD",
+    "brand_fa": "بایدی",
+    "model_fa": "F3",
+    "trim": "اتوماتیک",
+    "category": "سدان",
+    "country": "چین/ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1500,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 109,
+        "max_torque_nm": 145
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 12.5,
+        "fuel_combined_consumption_l_100km": 7.5
+      },
+      "safety": {
+        "airbags": 4,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "195/60R15",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "7 اینچ لمسی",
+        "ac": "اتوماتیک",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1401,
+    "brand_en": "Ford",
+    "brand_fa": "فورد",
+    "model_fa": "فوکوس",
+    "trim": "اتوماتیک",
+    "category": "سدان",
+    "country": "آمریکا",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 2000,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 160,
+        "max_torque_nm": 202
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 9.8,
+        "fuel_combined_consumption_l_100km": 7.8
+      },
+      "safety": {
+        "airbags": 6,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "215/50R17",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "8 اینچ لمسی",
+        "ac": "اتوماتیک دوگانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1402,
+    "brand_en": "Chevrolet",
+    "brand_fa": "شورولت",
+    "model_fa": "کروز",
+    "trim": "اتوماتیک",
+    "category": "سدان",
+    "country": "آمریکا",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1800,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 140,
+        "max_torque_nm": 176
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 10.5,
+        "fuel_combined_consumption_l_100km": 7.6
+      },
+      "safety": {
+        "airbags": 6,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "205/55R16",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "7 اینچ لمسی",
+        "ac": "اتوماتیک دوگانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1501,
+    "brand_en": "Skoda",
+    "brand_fa": "اسکودا",
+    "model_fa": "سوپرب",
+    "trim": "اتوماتیک",
+    "category": "سدان",
+    "country": "چک/ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 2000,
+        "breathing": "توربو",
+        "max_power_hp": 190,
+        "max_torque_nm": 320
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 7
+      },
+      "performance": {
+        "acceleration_0_100": 7.8,
+        "fuel_combined_consumption_l_100km": 7.2
+      },
+      "safety": {
+        "airbags": 8,
+        "brakes": "دیسکی خنک شونده",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "225/45R18",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "9.2 اینچ لمسی",
+        "ac": "اتوماتیک سه‌گانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1502,
+    "brand_en": "Skoda",
+    "brand_fa": "اسکودا",
+    "model_fa": "اکتاویا",
+    "trim": "پرو",
+    "category": "سدان",
+    "country": "چک/ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1500,
+        "breathing": "توربو",
+        "max_power_hp": 150,
+        "max_torque_nm": 250
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 7
+      },
+      "performance": {
+        "acceleration_0_100": 8.5,
+        "fuel_combined_consumption_l_100km": 6.8
+      },
+      "safety": {
+        "airbags": 6,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "205/55R16",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "8 اینچ لمسی",
+        "ac": "اتوماتیک دوگانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1503,
+    "brand_en": "BYD",
+    "brand_fa": "بایدی",
+    "model_fa": "سونگ پلاس هیبرید",
+    "trim": "پلاس",
+    "category": "کراس اوور",
+    "country": "چین/ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1500,
+        "breathing": "هیبرید",
+        "max_power_hp": 110,
+        "max_torque_nm": 135
+      },
+      "transmission": {
+        "type": "اتوماتیک CVT",
+        "gears": 1
+      },
+      "performance": {
+        "acceleration_0_100": 8.5,
+        "fuel_combined_consumption_l_100km": 4.4
+      },
+      "safety": {
+        "airbags": 6,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "225/60R18",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "12.8 اینچ لمسی",
+        "ac": "اتوماتیک دوگانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1504,
+    "brand_en": "BYD",
+    "brand_fa": "بایدی",
+    "model_fa": "دلفین",
+    "trim": "الکتریکی",
+    "category": "هاچ‌بک",
+    "country": "چین/ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 0,
+        "breathing": "الکتریکی",
+        "max_power_hp": 95,
+        "max_torque_nm": 180
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 1
+      },
+      "performance": {
+        "acceleration_0_100": 10.9,
+        "fuel_combined_consumption_l_100km": 0
+      },
+      "safety": {
+        "airbags": 6,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "195/60R16",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "12.8 اینچ لمسی",
+        "ac": "اتوماتیک دوگانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1505,
+    "brand_en": "BYD",
+    "brand_fa": "بایدی",
+    "model_fa": "یوان پلاس",
+    "trim": "الکتریکی",
+    "category": "کراس اوور",
+    "country": "چین/ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 0,
+        "breathing": "الکتریکی",
+        "max_power_hp": 150,
+        "max_torque_nm": 310
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 1
+      },
+      "performance": {
+        "acceleration_0_100": 8.5,
+        "fuel_combined_consumption_l_100km": 0
+      },
+      "safety": {
+        "airbags": 6,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "225/60R18",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "15.6 اینچ لمسی",
+        "ac": "اتوماتیک دوگانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1506,
+    "brand_en": "Toyota",
+    "brand_fa": "تویوتا",
+    "model_fa": "کورولا کراس",
+    "trim": "هیبرید",
+    "category": "کراس اوور",
+    "country": "ژاپن",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1800,
+        "breathing": "هیبرید",
+        "max_power_hp": 122,
+        "max_torque_nm": 142
+      },
+      "transmission": {
+        "type": "اتوماتیک CVT",
+        "gears": 1
+      },
+      "performance": {
+        "acceleration_0_100": 10.2,
+        "fuel_combined_consumption_l_100km": 4.3
+      },
+      "safety": {
+        "airbags": 7,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "215/60R17",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "9 اینچ لمسی",
+        "ac": "اتوماتیک دوگانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1507,
+    "brand_en": "Toyota",
+    "brand_fa": "تویوتا",
+    "model_fa": "کمری هیبرید",
+    "trim": "پلاس",
+    "category": "سدان",
+    "country": "ژاپن",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 2500,
+        "breathing": "هیبرید",
+        "max_power_hp": 215,
+        "max_torque_nm": 221
+      },
+      "transmission": {
+        "type": "اتوماتیک CVT",
+        "gears": 1
+      },
+      "performance": {
+        "acceleration_0_100": 8.3,
+        "fuel_combined_consumption_l_100km": 4.1
+      },
+      "safety": {
+        "airbags": 10,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "235/45R18",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "12.3 اینچ لمسی",
+        "ac": "اتوماتیک سه‌گانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1508,
+    "brand_en": "Toyota",
+    "brand_fa": "تویوتا",
+    "model_fa": "راو 4 هیبرید",
+    "trim": "پلاس",
+    "category": "شاسی بلند",
+    "country": "ژاپن",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 2500,
+        "breathing": "هیبرید",
+        "max_power_hp": 219,
+        "max_torque_nm": 221
+      },
+      "transmission": {
+        "type": "اتوماتیک CVT",
+        "gears": 1
+      },
+      "performance": {
+        "acceleration_0_100": 8.1,
+        "fuel_combined_consumption_l_100km": 4.7
+      },
+      "safety": {
+        "airbags": 7,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "225/60R18",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "10.5 اینچ لمسی",
+        "ac": "اتوماتیک دوگانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1509,
+    "brand_en": "Kia",
+    "brand_fa": "کیا",
+    "model_fa": "K5",
+    "trim": "توربو",
+    "category": "سدان",
+    "country": "کره جنوبی",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1600,
+        "breathing": "توربو",
+        "max_power_hp": 180,
+        "max_torque_nm": 265
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 8
+      },
+      "performance": {
+        "acceleration_0_100": 7.4,
+        "fuel_combined_consumption_l_100km": 7.1
+      },
+      "safety": {
+        "airbags": 8,
+        "brakes": "دیسکی خنک شونده",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "235/45R18",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "12.3 اینچ لمسی",
+        "ac": "اتوماتیک دوگانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1510,
+    "brand_en": "Kia",
+    "brand_fa": "کیا",
+    "model_fa": "اسپورتاژ",
+    "trim": "توربو",
+    "category": "کراس اوور",
+    "country": "کره جنوبی",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1600,
+        "breathing": "توربو",
+        "max_power_hp": 180,
+        "max_torque_nm": 265
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 7
+      },
+      "performance": {
+        "acceleration_0_100": 8.0,
+        "fuel_combined_consumption_l_100km": 7.4
+      },
+      "safety": {
+        "airbags": 7,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "225/60R17",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "10.25 اینچ لمسی",
+        "ac": "اتوماتیک دوگانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1511,
+    "brand_en": "Hyundai",
+    "brand_fa": "هیوندای",
+    "model_fa": "سانتافه",
+    "trim": "توربو",
+    "category": "شاسی بلند",
+    "country": "کره جنوبی",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 2000,
+        "breathing": "توربو",
+        "max_power_hp": 232,
+        "max_torque_nm": 353
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 8
+      },
+      "performance": {
+        "acceleration_0_100": 7.6,
+        "fuel_combined_consumption_l_100km": 8.8
+      },
+      "safety": {
+        "airbags": 7,
+        "brakes": "دیسکی خنک شونده",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "235/60R18",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "12.3 اینچ لمسی",
+        "ac": "اتوماتیک سه‌گانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1512,
+    "brand_en": "Hyundai",
+    "brand_fa": "هیوندای",
+    "model_fa": "توسان",
+    "trim": "توربو",
+    "category": "کراس اوور",
+    "country": "کره جنوبی",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1600,
+        "breathing": "توربو",
+        "max_power_hp": 150,
+        "max_torque_nm": 253
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 7
+      },
+      "performance": {
+        "acceleration_0_100": 8.8,
+        "fuel_combined_consumption_l_100km": 7.2
+      },
+      "safety": {
+        "airbags": 6,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "225/55R18",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "10.25 اینچ لمسی",
+        "ac": "اتوماتیک دوگانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1513,
+    "brand_en": "Nissan",
+    "brand_fa": "نیسان",
+    "model_fa": "کیکس",
+    "trim": "اتوماتیک",
+    "category": "کراس اوور",
+    "country": "ژاپن",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1600,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 125,
+        "max_torque_nm": 154
+      },
+      "transmission": {
+        "type": "اتوماتیک CVT",
+        "gears": 1
+      },
+      "performance": {
+        "acceleration_0_100": 11.2,
+        "fuel_combined_consumption_l_100km": 6.1
+      },
+      "safety": {
+        "airbags": 6,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "205/60R16",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "8 اینچ لمسی",
+        "ac": "اتوماتیک",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1514,
+    "brand_en": "Nissan",
+    "brand_fa": "نیسان",
+    "model_fa": "آریا",
+    "trim": "الکتریکی",
+    "category": "کراس اوور",
+    "country": "ژاپن",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 0,
+        "breathing": "الکتریکی",
+        "max_power_hp": 218,
+        "max_torque_nm": 300
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 1
+      },
+      "performance": {
+        "acceleration_0_100": 7.5,
+        "fuel_combined_consumption_l_100km": 0
+      },
+      "safety": {
+        "airbags": 8,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "235/55R19",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "12.3 اینچ لمسی",
+        "ac": "اتوماتیک دوگانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1515,
+    "brand_en": "Honda",
+    "brand_fa": "هوندا",
+    "model_fa": "HR-V",
+    "trim": "اتوماتیک",
+    "category": "کراس اوور",
+    "country": "ژاپن",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1500,
+        "breathing": "توربو",
+        "max_power_hp": 182,
+        "max_torque_nm": 240
+      },
+      "transmission": {
+        "type": "اتوماتیک CVT",
+        "gears": 1
+      },
+      "performance": {
+        "acceleration_0_100": 8.6,
+        "fuel_combined_consumption_l_100km": 6.4
+      },
+      "safety": {
+        "airbags": 6,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "215/60R17",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "9 اینچ لمسی",
+        "ac": "اتوماتیک دوگانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1516,
+    "brand_en": "Honda",
+    "brand_fa": "هوندا",
+    "model_fa": "ZR-V",
+    "trim": "توربو",
+    "category": "کراس اوور",
+    "country": "ژاپن",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1500,
+        "breathing": "توربو",
+        "max_power_hp": 182,
+        "max_torque_nm": 240
+      },
+      "transmission": {
+        "type": "اتوماتیک CVT",
+        "gears": 1
+      },
+      "performance": {
+        "acceleration_0_100": 8.2,
+        "fuel_combined_consumption_l_100km": 6.8
+      },
+      "safety": {
+        "airbags": 8,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "225/55R18",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "9 اینچ لمسی",
+        "ac": "اتوماتیک دوگانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1601,
+    "brand_en": "Honda",
+    "brand_fa": "هوندا",
+    "model_fa": "وزل",
+    "trim": "1.5 لیتر",
+    "category": "کراس اوور",
+    "country": "ژاپن",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1500,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 120,
+        "max_torque_nm": 145
+      },
+      "transmission": {
+        "type": "اتوماتیک CVT",
+        "gears": 1
+      },
+      "performance": {
+        "acceleration_0_100": 11.5,
+        "fuel_combined_consumption_l_100km": 6.2
+      },
+      "safety": {
+        "airbags": 6,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "215/60R16",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "7 اینچ لمسی",
+        "ac": "اتوماتیک",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1602,
+    "brand_en": "Chery",
+    "brand_fa": "فونیکس",
+    "model_fa": "آریزو 6",
+    "trim": "GT اکسلنت",
+    "category": "سدان",
+    "country": "چین/ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1600,
+        "breathing": "توربو",
+        "max_power_hp": 197,
+        "max_torque_nm": 290
+      },
+      "transmission": {
+        "type": "اتوماتیک دوکلاچه",
+        "gears": 7
+      },
+      "performance": {
+        "acceleration_0_100": 7.8,
+        "fuel_combined_consumption_l_100km": 6.9
+      },
+      "safety": {
+        "airbags": 6,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "225/45R18",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "12.3 اینچ لمسی",
+        "ac": "اتوماتیک دوگانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1603,
+    "brand_en": "Nissan",
+    "brand_fa": "نیسان",
+    "model_fa": "سانی",
+    "trim": "1.5 لیتر",
+    "category": "سدان",
+    "country": "ژاپن",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1500,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 99,
+        "max_torque_nm": 134
+      },
+      "transmission": {
+        "type": "اتوماتیک CVT",
+        "gears": 1
+      },
+      "performance": {
+        "acceleration_0_100": 12.8,
+        "fuel_combined_consumption_l_100km": 5.8
+      },
+      "safety": {
+        "airbags": 6,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "195/60R16",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "8 اینچ لمسی",
+        "ac": "اتوماتیک",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1604,
+    "brand_en": "Nissan",
+    "brand_fa": "نیسان",
+    "model_fa": "ترا",
+    "trim": "اکسلوسیو",
+    "category": "شاسی بلند",
+    "country": "ژاپن",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 2500,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 169,
+        "max_torque_nm": 233
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 9.8,
+        "fuel_combined_consumption_l_100km": 8.9
+      },
+      "safety": {
+        "airbags": 7,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "225/65R17",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "8 اینچ لمسی",
+        "ac": "اتوماتیک دوگانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1605,
+    "brand_en": "Zamyad",
+    "brand_fa": "زامیاد",
+    "model_fa": "پادرا پلاس",
+    "trim": "دوگانه سوز",
+    "category": "وانت",
+    "country": "ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 2500,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 140,
+        "max_torque_nm": 200
+      },
+      "transmission": {
+        "type": "دستی",
+        "gears": 5
+      },
+      "performance": {
+        "acceleration_0_100": 15.2,
+        "fuel_combined_consumption_l_100km": 9.5
+      },
+      "safety": {
+        "airbags": 2,
+        "brakes": "دیسکی جلو/کاسه‌ای عقب",
+        "stability_system": false
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "هیدرولیک"
+      },
+      "tires": {
+        "size": "215/75R15",
+        "rim_type": "فولادی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "ساده",
+        "ac": "دستی",
+        "power_windows": "جلو"
+      }
+    }
+  },
+  {
+    "id": 1606,
+    "brand_en": "Fidelity",
+    "brand_fa": "فیدلیتی",
+    "model_fa": "الیت",
+    "trim": "تیپ 2 هفت نفره",
+    "category": "ون",
+    "country": "چین/ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1500,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 110,
+        "max_torque_nm": 145
+      },
+      "transmission": {
+        "type": "دستی",
+        "gears": 5
+      },
+      "performance": {
+        "acceleration_0_100": 14.5,
+        "fuel_combined_consumption_l_100km": 8.2
+      },
+      "safety": {
+        "airbags": 2,
+        "brakes": "دیسکی جلو/کاسه‌ای عقب",
+        "stability_system": false
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "هیدرولیک"
+      },
+      "tires": {
+        "size": "185/70R14",
+        "rim_type": "فولادی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "ساده",
+        "ac": "دستی",
+        "power_windows": "جلو"
+      }
+    }
+  },
+  {
+    "id": 1607,
+    "brand_en": "Lukano",
+    "brand_fa": "لوکانو",
+    "model_fa": "L7",
+    "trim": "1.6 لیتر توربو",
+    "category": "سدان",
+    "country": "چین/ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1600,
+        "breathing": "توربو",
+        "max_power_hp": 197,
+        "max_torque_nm": 290
+      },
+      "transmission": {
+        "type": "اتوماتیک دوکلاچه",
+        "gears": 7
+      },
+      "performance": {
+        "acceleration_0_100": 7.8,
+        "fuel_combined_consumption_l_100km": 6.9
+      },
+      "safety": {
+        "airbags": 6,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "225/45R18",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "12.3 اینچ لمسی",
+        "ac": "اتوماتیک دوگانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1608,
+    "brand_en": "Lukano",
+    "brand_fa": "لوکانو",
+    "model_fa": "L8",
+    "trim": "2.0 لیتر توربو",
+    "category": "شاسی بلند",
+    "country": "چین/ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 2000,
+        "breathing": "توربو",
+        "max_power_hp": 233,
+        "max_torque_nm": 350
+      },
+      "transmission": {
+        "type": "اتوماتیک دوکلاچه",
+        "gears": 7
+      },
+      "performance": {
+        "acceleration_0_100": 7.2,
+        "fuel_combined_consumption_l_100km": 7.8
+      },
+      "safety": {
+        "airbags": 8,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "235/55R19",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "12.3 اینچ لمسی",
+        "ac": "اتوماتیک سه‌گانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1609,
+    "brand_en": "Tank",
+    "brand_fa": "تانک",
+    "model_fa": "300",
+    "trim": "2.0 لیتر توربو",
+    "category": "شاسی بلند",
+    "country": "چین/ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 2000,
+        "breathing": "توربو",
+        "max_power_hp": 227,
+        "max_torque_nm": 387
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 8
+      },
+      "performance": {
+        "acceleration_0_100": 8.5,
+        "fuel_combined_consumption_l_100km": 9.2
+      },
+      "safety": {
+        "airbags": 8,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "265/60R18",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "12.3 اینچ لمسی",
+        "ac": "اتوماتیک سه‌گانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1610,
+    "brand_en": "Dignity",
+    "brand_fa": "دیگنیتی",
+    "model_fa": "پرایم",
+    "trim": "پلاس",
+    "category": "سدان",
+    "country": "چین/ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1500,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 113,
+        "max_torque_nm": 145
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 12.5,
+        "fuel_combined_consumption_l_100km": 7.2
+      },
+      "safety": {
+        "airbags": 4,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "195/60R15",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "8 اینچ لمسی",
+        "ac": "اتوماتیک",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1611,
+    "brand_en": "Haima",
+    "brand_fa": "هایما",
+    "model_fa": "7X",
+    "trim": "1.6 لیتر توربو",
+    "category": "شاسی بلند",
+    "country": "چین/ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1600,
+        "breathing": "توربو",
+        "max_power_hp": 195,
+        "max_torque_nm": 293
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 9.2,
+        "fuel_combined_consumption_l_100km": 7.8
+      },
+      "safety": {
+        "airbags": 6,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "225/60R17",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "10.25 اینچ لمسی",
+        "ac": "اتوماتیک دوگانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1612,
+    "brand_en": "Zamyad",
+    "brand_fa": "زامیاد",
+    "model_fa": "وانت نیسان",
+    "trim": "بنزین",
+    "category": "وانت",
+    "country": "ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 2500,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 140,
+        "max_torque_nm": 200
+      },
+      "transmission": {
+        "type": "دستی",
+        "gears": 5
+      },
+      "performance": {
+        "acceleration_0_100": 15.5,
+        "fuel_combined_consumption_l_100km": 9.8
+      },
+      "safety": {
+        "airbags": 0,
+        "brakes": "دیسکی جلو/کاسه‌ای عقب",
+        "stability_system": false
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "هیدرولیک"
+      },
+      "tires": {
+        "size": "215/75R15",
+        "rim_type": "فولادی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "ساده",
+        "ac": "دستی",
+        "power_windows": "جلو"
+      }
+    }
+  },
+  {
+    "id": 1613,
+    "brand_en": "Geely",
+    "brand_fa": "جیلی",
+    "model_fa": "جیام شینگیوان",
+    "trim": "2026",
+    "category": "کراس اوور",
+    "country": "چین/ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1500,
+        "breathing": "توربو",
+        "max_power_hp": 177,
+        "max_torque_nm": 255
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 7
+      },
+      "performance": {
+        "acceleration_0_100": 8.8,
+        "fuel_combined_consumption_l_100km": 7.2
+      },
+      "safety": {
+        "airbags": 6,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "225/60R17",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "10.25 اینچ لمسی",
+        "ac": "اتوماتیک دوگانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1614,
+    "brand_en": "Volkswagen",
+    "brand_fa": "فولکس واگن",
+    "model_fa": "آی دی یونیکس",
+    "trim": "پیور",
+    "category": "کراس اوور",
+    "country": "آلمان",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 0,
+        "breathing": "الکتریکی",
+        "max_power_hp": 201,
+        "max_torque_nm": 310
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 1
+      },
+      "performance": {
+        "acceleration_0_100": 8.5,
+        "fuel_combined_consumption_l_100km": 0
+      },
+      "safety": {
+        "airbags": 6,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "215/60R17",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "10 اینچ لمسی",
+        "ac": "اتوماتیک دوگانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1615,
+    "brand_en": "Volkswagen",
+    "brand_fa": "فولکس واگن",
+    "model_fa": "آی دی یونیکس",
+    "trim": "اولترا",
+    "category": "کراس اوور",
+    "country": "آلمان",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 0,
+        "breathing": "الکتریکی",
+        "max_power_hp": 282,
+        "max_torque_nm": 460
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 1
+      },
+      "performance": {
+        "acceleration_0_100": 6.2,
+        "fuel_combined_consumption_l_100km": 0
+      },
+      "safety": {
+        "airbags": 8,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "235/50R19",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "12 اینچ لمسی",
+        "ac": "اتوماتیک سه‌گانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1701,
+    "brand_en": "Peugeot",
+    "brand_fa": "پژو",
+    "model_fa": "301",
+    "trim": "اتوماتیک",
+    "category": "سدان",
+    "country": "فرانسه/ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1600,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 115,
+        "max_torque_nm": 150
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 11.8,
+        "fuel_combined_consumption_l_100km": 6.8
+      },
+      "safety": {
+        "airbags": 4,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "195/65R15",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "7 اینچ لمسی",
+        "ac": "اتوماتیک",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1702,
+    "brand_en": "Peugeot",
+    "brand_fa": "پژو",
+    "model_fa": "3008",
+    "trim": "اتوماتیک",
+    "category": "کراس اوور",
+    "country": "فرانسه/ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1600,
+        "breathing": "توربو",
+        "max_power_hp": 165,
+        "max_torque_nm": 240
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 8.9,
+        "fuel_combined_consumption_l_100km": 6.8
+      },
+      "safety": {
+        "airbags": 6,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "225/55R18",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "8 اینچ لمسی",
+        "ac": "اتوماتیک دوگانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1703,
+    "brand_en": "Saipa",
+    "brand_fa": "سایپا",
+    "model_fa": "کوییک R",
+    "trim": "اتوماتیک",
+    "category": "هاچ‌بک",
+    "country": "ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1503,
+        "breathing": "تنفس طبیعی M15",
+        "max_power_hp": 87,
+        "max_torque_nm": 128
+      },
+      "transmission": {
+        "type": "اتوماتیک CVT",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 13.8,
+        "fuel_combined_consumption_l_100km": 7.9
+      },
+      "safety": {
+        "airbags": 2,
+        "brakes": "دیسکی جلو/کاسه‌ای عقب",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "185/60R14",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "7 اینچ لمسی",
+        "ac": "دستی",
+        "power_windows": "جلو"
+      }
+    }
+  },
+  {
+    "id": 1704,
+    "brand_en": "Saipa",
+    "brand_fa": "سایپا",
+    "model_fa": "کوییک S",
+    "trim": "اتوماتیک",
+    "category": "هاچ‌بک",
+    "country": "ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1503,
+        "breathing": "تنفس طبیعی M15",
+        "max_power_hp": 87,
+        "max_torque_nm": 128
+      },
+      "transmission": {
+        "type": "اتوماتیک CVT",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 14.2,
+        "fuel_combined_consumption_l_100km": 8.1
+      },
+      "safety": {
+        "airbags": 2,
+        "brakes": "دیسکی جلو/کاسه‌ای عقب",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "185/60R14",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "7 اینچ لمسی",
+        "ac": "دستی",
+        "power_windows": "جلو"
+      }
+    }
+  },
+  {
+    "id": 1705,
+    "brand_en": "Iran Khodro",
+    "brand_fa": "ایران خودرو",
+    "model_fa": "دنا پلاس",
+    "trim": "دستی",
+    "category": "سدان",
+    "country": "ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1645,
+        "breathing": "تنفس طبیعی EF7",
+        "max_power_hp": 115,
+        "max_torque_nm": 155
+      },
+      "transmission": {
+        "type": "دستی",
+        "gears": 5
+      },
+      "performance": {
+        "acceleration_0_100": 12.8,
+        "fuel_combined_consumption_l_100km": 7.5
+      },
+      "safety": {
+        "airbags": 2,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": false
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "هیدرولیک"
+      },
+      "tires": {
+        "size": "195/60R15",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "7 اینچ لمسی",
+        "ac": "اتوماتیک",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1706,
+    "brand_en": "Iran Khodro",
+    "brand_fa": "ایران خودرو",
+    "model_fa": "سمند EF7",
+    "trim": "اتوماتیک",
+    "category": "سدان",
+    "country": "ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1645,
+        "breathing": "تنفس طبیعی EF7",
+        "max_power_hp": 115,
+        "max_torque_nm": 155
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 12.2,
+        "fuel_combined_consumption_l_100km": 7.8
+      },
+      "safety": {
+        "airbags": 4,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "195/60R15",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "7 اینچ لمسی",
+        "ac": "اتوماتیک",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1707,
+    "brand_en": "Kia",
+    "brand_fa": "کیا",
+    "model_fa": "پیکانتو",
+    "trim": "اتوماتیک",
+    "category": "هاچ‌بک",
+    "country": "کره جنوبی",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1200,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 84,
+        "max_torque_nm": 120
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 4
+      },
+      "performance": {
+        "acceleration_0_100": 13.5,
+        "fuel_combined_consumption_l_100km": 5.8
+      },
+      "safety": {
+        "airbags": 4,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "175/70R14",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "7 اینچ لمسی",
+        "ac": "اتوماتیک",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1708,
+    "brand_en": "Hyundai",
+    "brand_fa": "هیوندای",
+    "model_fa": "آکسانت",
+    "trim": "دستی",
+    "category": "سدان",
+    "country": "کره جنوبی",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1600,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 123,
+        "max_torque_nm": 155
+      },
+      "transmission": {
+        "type": "دستی",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 10.8,
+        "fuel_combined_consumption_l_100km": 6.9
+      },
+      "safety": {
+        "airbags": 6,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "195/60R15",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "7 اینچ لمسی",
+        "ac": "اتوماتیک",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1709,
+    "brand_en": "Toyota",
+    "brand_fa": "تویوتا",
+    "model_fa": "یاریس",
+    "trim": "اتوماتیک",
+    "category": "هاچ‌بک",
+    "country": "ژاپن",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1500,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 110,
+        "max_torque_nm": 138
+      },
+      "transmission": {
+        "type": "اتوماتیک CVT",
+        "gears": 1
+      },
+      "performance": {
+        "acceleration_0_100": 11.2,
+        "fuel_combined_consumption_l_100km": 5.8
+      },
+      "safety": {
+        "airbags": 7,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "185/60R15",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "7 اینچ لمسی",
+        "ac": "اتوماتیک",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1710,
+    "brand_en": "Toyota",
+    "brand_fa": "تویوتا",
+    "model_fa": "کمری",
+    "trim": "2.5 لیتر",
+    "category": "سدان",
+    "country": "ژاپن",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 2500,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 181,
+        "max_torque_nm": 233
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 8.8,
+        "fuel_combined_consumption_l_100km": 8.8
+      },
+      "safety": {
+        "airbags": 10,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "215/60R16",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "8 اینچ لمسی",
+        "ac": "اتوماتیک دوگانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1711,
+    "brand_en": "Nissan",
+    "brand_fa": "نیسان",
+    "model_fa": "لیف",
+    "trim": "الکتریکی",
+    "category": "هاچ‌بک",
+    "country": "ژاپن",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 0,
+        "breathing": "الکتریکی",
+        "max_power_hp": 110,
+        "max_torque_nm": 320
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 1
+      },
+      "performance": {
+        "acceleration_0_100": 11.5,
+        "fuel_combined_consumption_l_100km": 0
+      },
+      "safety": {
+        "airbags": 6,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "205/55R16",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "7 اینچ لمسی",
+        "ac": "اتوماتیک",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1712,
+    "brand_en": "Honda",
+    "brand_fa": "هوندا",
+    "model_fa": "فیت",
+    "trim": "هیبرید",
+    "category": "هاچ‌بک",
+    "country": "ژاپن",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1500,
+        "breathing": "هیبرید",
+        "max_power_hp": 109,
+        "max_torque_nm": 134
+      },
+      "transmission": {
+        "type": "اتوماتیک CVT",
+        "gears": 1
+      },
+      "performance": {
+        "acceleration_0_100": 10.8,
+        "fuel_combined_consumption_l_100km": 4.2
+      },
+      "safety": {
+        "airbags": 6,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "185/60R15",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "7 اینچ لمسی",
+        "ac": "اتوماتیک",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1713,
+    "brand_en": "Mazda",
+    "brand_fa": "مزدا",
+    "model_fa": "مزدا 2",
+    "trim": "اتوماتیک",
+    "category": "هاچ‌بک",
+    "country": "ژاپن",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1500,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 90,
+        "max_torque_nm": 148
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 12.5,
+        "fuel_combined_consumption_l_100km": 6.2
+      },
+      "safety": {
+        "airbags": 6,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "185/60R15",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "7 اینچ لمسی",
+        "ac": "اتوماتیک",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1714,
+    "brand_en": "Mazda",
+    "brand_fa": "مزدا",
+    "model_fa": "CX-5",
+    "trim": "اتوماتیک",
+    "category": "شاسی بلند",
+    "country": "ژاپن",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 2000,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 165,
+        "max_torque_nm": 210
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 9.8,
+        "fuel_combined_consumption_l_100km": 7.8
+      },
+      "safety": {
+        "airbags": 6,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "225/65R17",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "7 اینچ لمسی",
+        "ac": "اتوماتیک دوگانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1715,
+    "brand_en": "Suzuki",
+    "brand_fa": "سوزوکی",
+    "model_fa": "سوئیفت",
+    "trim": "اتوماتیک",
+    "category": "هاچ‌بک",
+    "country": "ژاپن",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1200,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 82,
+        "max_torque_nm": 113
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 13.8,
+        "fuel_combined_consumption_l_100km": 5.4
+      },
+      "safety": {
+        "airbags": 6,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "185/55R15",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "7 اینچ لمسی",
+        "ac": "اتوماتیک",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1716,
+    "brand_en": "Suzuki",
+    "brand_fa": "سوزوکی",
+    "model_fa": "ویتارا",
+    "trim": "اتوماتیک",
+    "category": "شاسی بلند",
+    "country": "ژاپن",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1600,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 105,
+        "max_torque_nm": 138
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 12.2,
+        "fuel_combined_consumption_l_100km": 6.8
+      },
+      "safety": {
+        "airbags": 6,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "205/60R16",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "7 اینچ لمسی",
+        "ac": "اتوماتیک",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1717,
+    "brand_en": "SsangYong",
+    "brand_fa": "سانگیونگ",
+    "model_fa": "کوراندو",
+    "trim": "اتوماتیک",
+    "category": "شاسی بلند",
+    "country": "کره جنوبی",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 2000,
+        "breathing": "توربو",
+        "max_power_hp": 181,
+        "max_torque_nm": 400
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 9.5,
+        "fuel_combined_consumption_l_100km": 8.2
+      },
+      "safety": {
+        "airbags": 7,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "235/60R18",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "9 اینچ لمسی",
+        "ac": "اتوماتیک دوگانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1718,
+    "brand_en": "Fiat",
+    "brand_fa": "فیات",
+    "model_fa": "500",
+    "trim": "اتوماتیک",
+    "category": "هاچ‌بک",
+    "country": "ایتالیا",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1200,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 69,
+        "max_torque_nm": 102
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 14.2,
+        "fuel_combined_consumption_l_100km": 5.8
+      },
+      "safety": {
+        "airbags": 7,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "175/65R15",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "7 اینچ لمسی",
+        "ac": "اتوماتیک",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1719,
+    "brand_en": "Mini",
+    "brand_fa": "مینی",
+    "model_fa": "کوپر",
+    "trim": "اتوماتیک",
+    "category": "هاچ‌بک",
+    "country": "انگلستان",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1500,
+        "breathing": "توربو",
+        "max_power_hp": 136,
+        "max_torque_nm": 220
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 7
+      },
+      "performance": {
+        "acceleration_0_100": 7.8,
+        "fuel_combined_consumption_l_100km": 6.2
+      },
+      "safety": {
+        "airbags": 6,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "195/55R16",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "6.5 اینچ لمسی",
+        "ac": "اتوماتیک",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1720,
+    "brand_en": "Lexus",
+    "brand_fa": "لکسوس",
+    "model_fa": "ES200",
+    "trim": "اتوماتیک",
+    "category": "سدان",
+    "country": "ژاپن",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 2000,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 167,
+        "max_torque_nm": 199
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 10.2,
+        "fuel_combined_consumption_l_100km": 7.8
+      },
+      "safety": {
+        "airbags": 10,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "215/55R17",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "12.3 اینچ لمسی",
+        "ac": "اتوماتیک سه‌گانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1801,
+    "brand_en": "Peugeot",
+    "brand_fa": "پژو",
+    "model_fa": "206",
+    "trim": "دستی",
+    "category": "هاچ‌بک",
+    "country": "فرانسه/ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1600,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 110,
+        "max_torque_nm": 147
+      },
+      "transmission": {
+        "type": "دستی",
+        "gears": 5
+      },
+      "performance": {
+        "acceleration_0_100": 12.5,
+        "fuel_combined_consumption_l_100km": 7.2
+      },
+      "safety": {
+        "airbags": 2,
+        "brakes": "دیسکی جلو/کاسه‌ای عقب",
+        "stability_system": false
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "هیدرولیک"
+      },
+      "tires": {
+        "size": "185/65R14",
+        "rim_type": "فولادی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "ساده",
+        "ac": "دستی",
+        "power_windows": "جلو"
+      }
+    }
+  },
+  {
+    "id": 1802,
+    "brand_en": "Peugeot",
+    "brand_fa": "پژو",
+    "model_fa": "207",
+    "trim": "اتوماتیک",
+    "category": "هاچ‌بک",
+    "country": "فرانسه/ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1600,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 120,
+        "max_torque_nm": 160
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 4
+      },
+      "performance": {
+        "acceleration_0_100": 11.8,
+        "fuel_combined_consumption_l_100km": 7.5
+      },
+      "safety": {
+        "airbags": 4,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "195/55R15",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "7 اینچ لمسی",
+        "ac": "اتوماتیک",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1803,
+    "brand_en": "Peugeot",
+    "brand_fa": "پژو",
+    "model_fa": "پارس",
+    "trim": "دستی",
+    "category": "سدان",
+    "country": "فرانسه/ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1800,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 125,
+        "max_torque_nm": 170
+      },
+      "transmission": {
+        "type": "دستی",
+        "gears": 5
+      },
+      "performance": {
+        "acceleration_0_100": 11.2,
+        "fuel_combined_consumption_l_100km": 8.1
+      },
+      "safety": {
+        "airbags": 2,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": false
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "هیدرولیک"
+      },
+      "tires": {
+        "size": "195/65R15",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "ساده",
+        "ac": "دستی",
+        "power_windows": "جلو"
+      }
+    }
+  },
+  {
+    "id": 1804,
+    "brand_en": "Peugeot",
+    "brand_fa": "پژو",
+    "model_fa": "پارس ELX",
+    "trim": "اتوماتیک",
+    "category": "سدان",
+    "country": "فرانسه/ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1800,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 125,
+        "max_torque_nm": 170
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 4
+      },
+      "performance": {
+        "acceleration_0_100": 12.8,
+        "fuel_combined_consumption_l_100km": 8.8
+      },
+      "safety": {
+        "airbags": 4,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "195/65R15",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "7 اینچ لمسی",
+        "ac": "اتوماتیک",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1805,
+    "brand_en": "Renault",
+    "brand_fa": "رنو",
+    "model_fa": "ساندرو",
+    "trim": "دستی",
+    "category": "هاچ‌بک",
+    "country": "فرانسه/ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1600,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 105,
+        "max_torque_nm": 148
+      },
+      "transmission": {
+        "type": "دستی",
+        "gears": 5
+      },
+      "performance": {
+        "acceleration_0_100": 12.8,
+        "fuel_combined_consumption_l_100km": 7.2
+      },
+      "safety": {
+        "airbags": 4,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "185/65R15",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "7 اینچ لمسی",
+        "ac": "اتوماتیک",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1806,
+    "brand_en": "Renault",
+    "brand_fa": "رنو",
+    "model_fa": "ساندرو استپ‌وی",
+    "trim": "اتوماتیک",
+    "category": "کراس اوور",
+    "country": "فرانسه/ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1600,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 105,
+        "max_torque_nm": 148
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 4
+      },
+      "performance": {
+        "acceleration_0_100": 13.5,
+        "fuel_combined_consumption_l_100km": 7.8
+      },
+      "safety": {
+        "airbags": 4,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "205/60R16",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "7 اینچ لمسی",
+        "ac": "اتوماتیک",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1807,
+    "brand_en": "Renault",
+    "brand_fa": "رنو",
+    "model_fa": "تندر 90",
+    "trim": "دستی",
+    "category": "سدان",
+    "country": "فرانسه/ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1600,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 90,
+        "max_torque_nm": 135
+      },
+      "transmission": {
+        "type": "دستی",
+        "gears": 5
+      },
+      "performance": {
+        "acceleration_0_100": 13.8,
+        "fuel_combined_consumption_l_100km": 7.5
+      },
+      "safety": {
+        "airbags": 2,
+        "brakes": "دیسکی جلو/کاسه‌ای عقب",
+        "stability_system": false
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "هیدرولیک"
+      },
+      "tires": {
+        "size": "185/65R14",
+        "rim_type": "فولادی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "ساده",
+        "ac": "دستی",
+        "power_windows": "جلو"
+      }
+    }
+  },
+  {
+    "id": 1808,
+    "brand_en": "Saipa",
+    "brand_fa": "سایپا",
+    "model_fa": "تیبا",
+    "trim": "دستی",
+    "category": "هاچ‌بک",
+    "country": "ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1500,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 87,
+        "max_torque_nm": 130
+      },
+      "transmission": {
+        "type": "دستی",
+        "gears": 5
+      },
+      "performance": {
+        "acceleration_0_100": 14.2,
+        "fuel_combined_consumption_l_100km": 8.1
+      },
+      "safety": {
+        "airbags": 2,
+        "brakes": "دیسکی جلو/کاسه‌ای عقب",
+        "stability_system": false
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "هیدرولیک"
+      },
+      "tires": {
+        "size": "175/70R13",
+        "rim_type": "فولادی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "ساده",
+        "ac": "دستی",
+        "power_windows": "جلو"
+      }
+    }
+  },
+  {
+    "id": 1809,
+    "brand_en": "Saipa",
+    "brand_fa": "سایپا",
+    "model_fa": "تیبا 2",
+    "trim": "اتوماتیک",
+    "category": "هاچ‌بک",
+    "country": "ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1500,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 87,
+        "max_torque_nm": 130
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 4
+      },
+      "performance": {
+        "acceleration_0_100": 15.2,
+        "fuel_combined_consumption_l_100km": 8.8
+      },
+      "safety": {
+        "airbags": 2,
+        "brakes": "دیسکی جلو/کاسه‌ای عقب",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "175/70R13",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "7 اینچ لمسی",
+        "ac": "اتوماتیک",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1810,
+    "brand_en": "Saipa",
+    "brand_fa": "سایپا",
+    "model_fa": "ساینا",
+    "trim": "دستی",
+    "category": "سدان",
+    "country": "ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1600,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 100,
+        "max_torque_nm": 145
+      },
+      "transmission": {
+        "type": "دستی",
+        "gears": 5
+      },
+      "performance": {
+        "acceleration_0_100": 13.5,
+        "fuel_combined_consumption_l_100km": 7.8
+      },
+      "safety": {
+        "airbags": 2,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": false
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "هیدرولیک"
+      },
+      "tires": {
+        "size": "185/65R14",
+        "rim_type": "فولادی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "ساده",
+        "ac": "دستی",
+        "power_windows": "جلو"
+      }
+    }
+  },
+  {
+    "id": 1811,
+    "brand_en": "Iran Khodro",
+    "brand_fa": "ایران خودرو",
+    "model_fa": "پژو 405",
+    "trim": "دستی",
+    "category": "سدان",
+    "country": "فرانسه/ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1800,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 115,
+        "max_torque_nm": 160
+      },
+      "transmission": {
+        "type": "دستی",
+        "gears": 5
+      },
+      "performance": {
+        "acceleration_0_100": 12.8,
+        "fuel_combined_consumption_l_100km": 8.2
+      },
+      "safety": {
+        "airbags": 2,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": false
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "هیدرولیک"
+      },
+      "tires": {
+        "size": "195/65R15",
+        "rim_type": "فولادی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "ساده",
+        "ac": "دستی",
+        "power_windows": "جلو"
+      }
+    }
+  },
+  {
+    "id": 1812,
+    "brand_en": "Iran Khodro",
+    "brand_fa": "ایران خودرو",
+    "model_fa": "پژو 405 GLX",
+    "trim": "اتوماتیک",
+    "category": "سدان",
+    "country": "فرانسه/ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1800,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 115,
+        "max_torque_nm": 160
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 4
+      },
+      "performance": {
+        "acceleration_0_100": 14.2,
+        "fuel_combined_consumption_l_100km": 9.1
+      },
+      "safety": {
+        "airbags": 4,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "195/65R15",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "7 اینچ لمسی",
+        "ac": "اتوماتیک",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1813,
+    "brand_en": "Iran Khodro",
+    "brand_fa": "ایران خودرو",
+    "model_fa": "سمند",
+    "trim": "دستی",
+    "category": "سدان",
+    "country": "ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1800,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 100,
+        "max_torque_nm": 155
+      },
+      "transmission": {
+        "type": "دستی",
+        "gears": 5
+      },
+      "performance": {
+        "acceleration_0_100": 13.8,
+        "fuel_combined_consumption_l_100km": 8.5
+      },
+      "safety": {
+        "airbags": 2,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": false
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "هیدرولیک"
+      },
+      "tires": {
+        "size": "195/65R15",
+        "rim_type": "فولادی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "ساده",
+        "ac": "دستی",
+        "power_windows": "جلو"
+      }
+    }
+  },
+  {
+    "id": 1814,
+    "brand_en": "Iran Khodro",
+    "brand_fa": "ایران خودرو",
+    "model_fa": "سمند LX",
+    "trim": "اتوماتیک",
+    "category": "سدان",
+    "country": "ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1800,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 100,
+        "max_torque_nm": 155
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 4
+      },
+      "performance": {
+        "acceleration_0_100": 15.2,
+        "fuel_combined_consumption_l_100km": 9.2
+      },
+      "safety": {
+        "airbags": 4,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "195/65R15",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "7 اینچ لمسی",
+        "ac": "اتوماتیک",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1815,
+    "brand_en": "Hyundai",
+    "brand_fa": "هیوندای",
+    "model_fa": "آوانته",
+    "trim": "دستی",
+    "category": "سدان",
+    "country": "کره جنوبی",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1600,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 123,
+        "max_torque_nm": 155
+      },
+      "transmission": {
+        "type": "دستی",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 10.8,
+        "fuel_combined_consumption_l_100km": 6.9
+      },
+      "safety": {
+        "airbags": 6,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "195/60R15",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "7 اینچ لمسی",
+        "ac": "اتوماتیک",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1816,
+    "brand_en": "Hyundai",
+    "brand_fa": "هیوندای",
+    "model_fa": "الانترا",
+    "trim": "اتوماتیک",
+    "category": "سدان",
+    "country": "کره جنوبی",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 2000,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 147,
+        "max_torque_nm": 180
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 9.8,
+        "fuel_combined_consumption_l_100km": 7.8
+      },
+      "safety": {
+        "airbags": 6,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "205/60R16",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "8 اینچ لمسی",
+        "ac": "اتوماتیک دوگانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1817,
+    "brand_en": "Kia",
+    "brand_fa": "کیا",
+    "model_fa": "ریو",
+    "trim": "دستی",
+    "category": "سدان",
+    "country": "کره جنوبی",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1400,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 100,
+        "max_torque_nm": 135
+      },
+      "transmission": {
+        "type": "دستی",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 12.2,
+        "fuel_combined_consumption_l_100km": 6.5
+      },
+      "safety": {
+        "airbags": 6,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "185/65R15",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "7 اینچ لمسی",
+        "ac": "اتوماتیک",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1818,
+    "brand_en": "Kia",
+    "brand_fa": "کیا",
+    "model_fa": "سراتو",
+    "trim": "اتوماتیک",
+    "category": "سدان",
+    "country": "کره جنوبی",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 2000,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 147,
+        "max_torque_nm": 180
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 9.8,
+        "fuel_combined_consumption_l_100km": 7.8
+      },
+      "safety": {
+        "airbags": 6,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "205/60R16",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "8 اینچ لمسی",
+        "ac": "اتوماتیک دوگانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1819,
+    "brand_en": "Toyota",
+    "brand_fa": "تویوتا",
+    "model_fa": "کورولا",
+    "trim": "دستی",
+    "category": "سدان",
+    "country": "ژاپن",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1800,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 140,
+        "max_torque_nm": 173
+      },
+      "transmission": {
+        "type": "دستی",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 10.5,
+        "fuel_combined_consumption_l_100km": 6.8
+      },
+      "safety": {
+        "airbags": 7,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "195/65R15",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "7 اینچ لمسی",
+        "ac": "اتوماتیک",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1820,
+    "brand_en": "Toyota",
+    "brand_fa": "تویوتا",
+    "model_fa": "کورولا هیبرید",
+    "trim": "اتوماتیک",
+    "category": "سدان",
+    "country": "ژاپن",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1800,
+        "breathing": "هیبرید",
+        "max_power_hp": 121,
+        "max_torque_nm": 142
+      },
+      "transmission": {
+        "type": "اتوماتیک CVT",
+        "gears": 1
+      },
+      "performance": {
+        "acceleration_0_100": 11.2,
+        "fuel_combined_consumption_l_100km": 4.2
+      },
+      "safety": {
+        "airbags": 8,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "195/65R15",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "7 اینچ لمسی",
+        "ac": "اتوماتیک",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1901,
+    "brand_en": "BMW",
+    "brand_fa": "بی‌ام‌دبلیو",
+    "model_fa": "سری 3",
+    "trim": "اتوماتیک",
+    "category": "سدان",
+    "country": "آلمان",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 2000,
+        "breathing": "توربو",
+        "max_power_hp": 184,
+        "max_torque_nm": 300
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 8
+      },
+      "performance": {
+        "acceleration_0_100": 7.2,
+        "fuel_combined_consumption_l_100km": 6.8
+      },
+      "safety": {
+        "airbags": 8,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "225/45R18",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "10.25 اینچ لمسی",
+        "ac": "اتوماتیک سه‌گانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1902,
+    "brand_en": "BMW",
+    "brand_fa": "بی‌ام‌دبلیو",
+    "model_fa": "X3",
+    "trim": "اتوماتیک",
+    "category": "شاسی بلند",
+    "country": "آلمان",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 2000,
+        "breathing": "توربو",
+        "max_power_hp": 184,
+        "max_torque_nm": 350
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 8
+      },
+      "performance": {
+        "acceleration_0_100": 8.2,
+        "fuel_combined_consumption_l_100km": 7.8
+      },
+      "safety": {
+        "airbags": 8,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "245/50R19",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "10.25 اینچ لمسی",
+        "ac": "اتوماتیک سه‌گانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1903,
+    "brand_en": "Mercedes-Benz",
+    "brand_fa": "مرسدس بنز",
+    "model_fa": "کلاس C",
+    "trim": "اتوماتیک",
+    "category": "سدان",
+    "country": "آلمان",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 2000,
+        "breathing": "توربو",
+        "max_power_hp": 184,
+        "max_torque_nm": 300
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 9
+      },
+      "performance": {
+        "acceleration_0_100": 7.5,
+        "fuel_combined_consumption_l_100km": 6.9
+      },
+      "safety": {
+        "airbags": 8,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "225/50R17",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "10.25 اینچ لمسی",
+        "ac": "اتوماتیک سه‌گانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1904,
+    "brand_en": "Mercedes-Benz",
+    "brand_fa": "مرسدس بنز",
+    "model_fa": "GLC",
+    "trim": "اتوماتیک",
+    "category": "شاسی بلند",
+    "country": "آلمان",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 2000,
+        "breathing": "توربو",
+        "max_power_hp": 184,
+        "max_torque_nm": 350
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 9
+      },
+      "performance": {
+        "acceleration_0_100": 8.5,
+        "fuel_combined_consumption_l_100km": 8.2
+      },
+      "safety": {
+        "airbags": 8,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "235/60R18",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "10.25 اینچ لمسی",
+        "ac": "اتوماتیک سه‌گانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1905,
+    "brand_en": "Audi",
+    "brand_fa": "آئودی",
+    "model_fa": "A4",
+    "trim": "اتوماتیک",
+    "category": "سدان",
+    "country": "آلمان",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 2000,
+        "breathing": "توربو",
+        "max_power_hp": 190,
+        "max_torque_nm": 320
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 7
+      },
+      "performance": {
+        "acceleration_0_100": 7.8,
+        "fuel_combined_consumption_l_100km": 6.8
+      },
+      "safety": {
+        "airbags": 8,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "225/50R17",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "8.3 اینچ لمسی",
+        "ac": "اتوماتیک سه‌گانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1906,
+    "brand_en": "Audi",
+    "brand_fa": "آئودی",
+    "model_fa": "Q5",
+    "trim": "اتوماتیک",
+    "category": "شاسی بلند",
+    "country": "آلمان",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 2000,
+        "breathing": "توربو",
+        "max_power_hp": 190,
+        "max_torque_nm": 370
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 7
+      },
+      "performance": {
+        "acceleration_0_100": 8.2,
+        "fuel_combined_consumption_l_100km": 7.8
+      },
+      "safety": {
+        "airbags": 8,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "235/60R18",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "8.3 اینچ لمسی",
+        "ac": "اتوماتیک سه‌گانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1907,
+    "brand_en": "Ford",
+    "brand_fa": "فورد",
+    "model_fa": "فوکوس",
+    "trim": "اتوماتیک",
+    "category": "هاچ‌بک",
+    "country": "آمریکا",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1600,
+        "breathing": "توربو",
+        "max_power_hp": 150,
+        "max_torque_nm": 240
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 9.2,
+        "fuel_combined_consumption_l_100km": 6.8
+      },
+      "safety": {
+        "airbags": 6,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "205/60R16",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "8 اینچ لمسی",
+        "ac": "اتوماتیک دوگانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1908,
+    "brand_en": "Ford",
+    "brand_fa": "فورد",
+    "model_fa": "اکواسپورت",
+    "trim": "اتوماتیک",
+    "category": "شاسی بلند",
+    "country": "آمریکا",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1500,
+        "breathing": "توربو",
+        "max_power_hp": 150,
+        "max_torque_nm": 240
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 9.8,
+        "fuel_combined_consumption_l_100km": 7.2
+      },
+      "safety": {
+        "airbags": 6,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "215/60R16",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "8 اینچ لمسی",
+        "ac": "اتوماتیک دوگانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1909,
+    "brand_en": "Chevrolet",
+    "brand_fa": "شورولت",
+    "model_fa": "کروز",
+    "trim": "اتوماتیک",
+    "category": "سدان",
+    "country": "آمریکا",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1600,
+        "breathing": "توربو",
+        "max_power_hp": 150,
+        "max_torque_nm": 250
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 9.5,
+        "fuel_combined_consumption_l_100km": 7.2
+      },
+      "safety": {
+        "airbags": 6,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "205/60R16",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "7 اینچ لمسی",
+        "ac": "اتوماتیک دوگانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1910,
+    "brand_en": "Chevrolet",
+    "brand_fa": "شورولت",
+    "model_fa": "کاپتیوا",
+    "trim": "اتوماتیک",
+    "category": "شاسی بلند",
+    "country": "آمریکا",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 2000,
+        "breathing": "توربو",
+        "max_power_hp": 170,
+        "max_torque_nm": 350
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 9.8,
+        "fuel_combined_consumption_l_100km": 8.2
+      },
+      "safety": {
+        "airbags": 6,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "225/60R17",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "8 اینچ لمسی",
+        "ac": "اتوماتیک دوگانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1911,
+    "brand_en": "Opel",
+    "brand_fa": "اوپل",
+    "model_fa": "آسترا",
+    "trim": "اتوماتیک",
+    "category": "هاچ‌بک",
+    "country": "آلمان",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1600,
+        "breathing": "توربو",
+        "max_power_hp": 150,
+        "max_torque_nm": 250
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 9.2,
+        "fuel_combined_consumption_l_100km": 6.8
+      },
+      "safety": {
+        "airbags": 6,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "205/60R16",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "8 اینچ لمسی",
+        "ac": "اتوماتیک دوگانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1912,
+    "brand_en": "Opel",
+    "brand_fa": "اوپل",
+    "model_fa": "کورسا",
+    "trim": "اتوماتیک",
+    "category": "هاچ‌بک",
+    "country": "آلمان",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1200,
+        "breathing": "توربو",
+        "max_power_hp": 110,
+        "max_torque_nm": 200
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 10.8,
+        "fuel_combined_consumption_l_100km": 5.8
+      },
+      "safety": {
+        "airbags": 6,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "195/60R15",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "7 اینچ لمسی",
+        "ac": "اتوماتیک",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1913,
+    "brand_en": "Citroen",
+    "brand_fa": "سیتروئن",
+    "model_fa": "C3",
+    "trim": "اتوماتیک",
+    "category": "هاچ‌بک",
+    "country": "فرانسه",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1200,
+        "breathing": "توربو",
+        "max_power_hp": 110,
+        "max_torque_nm": 205
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 10.5,
+        "fuel_combined_consumption_l_100km": 5.8
+      },
+      "safety": {
+        "airbags": 6,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "195/60R15",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "7 اینچ لمسی",
+        "ac": "اتوماتیک",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1914,
+    "brand_en": "Citroen",
+    "brand_fa": "سیتروئن",
+    "model_fa": "C4",
+    "trim": "اتوماتیک",
+    "category": "هاچ‌بک",
+    "country": "فرانسه",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1600,
+        "breathing": "توربو",
+        "max_power_hp": 130,
+        "max_torque_nm": 230
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 9.8,
+        "fuel_combined_consumption_l_100km": 6.5
+      },
+      "safety": {
+        "airbags": 6,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "205/55R16",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "7 اینچ لمسی",
+        "ac": "اتوماتیک دوگانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1915,
+    "brand_en": "Dacia",
+    "brand_fa": "داسیا",
+    "model_fa": "ساندرو",
+    "trim": "دستی",
+    "category": "هاچ‌بک",
+    "country": "رومانی",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1000,
+        "breathing": "توربو",
+        "max_power_hp": 90,
+        "max_torque_nm": 160
+      },
+      "transmission": {
+        "type": "دستی",
+        "gears": 5
+      },
+      "performance": {
+        "acceleration_0_100": 12.8,
+        "fuel_combined_consumption_l_100km": 5.8
+      },
+      "safety": {
+        "airbags": 4,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "185/65R15",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "7 اینچ لمسی",
+        "ac": "اتوماتیک",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1916,
+    "brand_en": "Dacia",
+    "brand_fa": "داسیا",
+    "model_fa": "لوگان",
+    "trim": "دستی",
+    "category": "سدان",
+    "country": "رومانی",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1000,
+        "breathing": "توربو",
+        "max_power_hp": 90,
+        "max_torque_nm": 160
+      },
+      "transmission": {
+        "type": "دستی",
+        "gears": 5
+      },
+      "performance": {
+        "acceleration_0_100": 13.2,
+        "fuel_combined_consumption_l_100km": 6.2
+      },
+      "safety": {
+        "airbags": 4,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "185/65R15",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "7 اینچ لمسی",
+        "ac": "اتوماتیک",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1917,
+    "brand_en": "Lada",
+    "brand_fa": "لادا",
+    "model_fa": "گرانتا",
+    "trim": "دستی",
+    "category": "سدان",
+    "country": "روسیه",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1600,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 87,
+        "max_torque_nm": 140
+      },
+      "transmission": {
+        "type": "دستی",
+        "gears": 5
+      },
+      "performance": {
+        "acceleration_0_100": 14.2,
+        "fuel_combined_consumption_l_100km": 7.8
+      },
+      "safety": {
+        "airbags": 2,
+        "brakes": "دیسکی جلو/کاسه‌ای عقب",
+        "stability_system": false
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "هیدرولیک"
+      },
+      "tires": {
+        "size": "185/60R14",
+        "rim_type": "فولادی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "ساده",
+        "ac": "دستی",
+        "power_windows": "جلو"
+      }
+    }
+  },
+  {
+    "id": 1918,
+    "brand_en": "Lada",
+    "brand_fa": "لادا",
+    "model_fa": "وستا",
+    "trim": "دستی",
+    "category": "سدان",
+    "country": "روسیه",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1600,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 106,
+        "max_torque_nm": 148
+      },
+      "transmission": {
+        "type": "دستی",
+        "gears": 5
+      },
+      "performance": {
+        "acceleration_0_100": 12.8,
+        "fuel_combined_consumption_l_100km": 7.2
+      },
+      "safety": {
+        "airbags": 4,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "195/60R15",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "7 اینچ لمسی",
+        "ac": "اتوماتیک",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1919,
+    "brand_en": "Great Wall",
+    "brand_fa": "گریت وال",
+    "model_fa": "هاور H6",
+    "trim": "اتوماتیک",
+    "category": "شاسی بلند",
+    "country": "چین",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 2000,
+        "breathing": "توربو",
+        "max_power_hp": 197,
+        "max_torque_nm": 315
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 7
+      },
+      "performance": {
+        "acceleration_0_100": 9.8,
+        "fuel_combined_consumption_l_100km": 8.5
+      },
+      "safety": {
+        "airbags": 6,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "225/65R17",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "9 اینچ لمسی",
+        "ac": "اتوماتیک دوگانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 1920,
+    "brand_en": "Great Wall",
+    "brand_fa": "گریت وال",
+    "model_fa": "هاور H2",
+    "trim": "اتوماتیک",
+    "category": "شاسی بلند",
+    "country": "چین",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1500,
+        "breathing": "توربو",
+        "max_power_hp": 150,
+        "max_torque_nm": 210
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 6
+      },
+      "performance": {
+        "acceleration_0_100": 11.2,
+        "fuel_combined_consumption_l_100km": 7.8
+      },
+      "safety": {
+        "airbags": 6,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "215/60R17",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": true,
+        "display": "8 اینچ لمسی",
+        "ac": "اتوماتیک دوگانه",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 2001,
+    "brand_en": "Atlas",
+    "brand_fa": "اطلس",
+    "model_fa": "تیپ 1",
+    "trim": "دستی",
+    "category": "سدان",
+    "country": "ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1600,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 100,
+        "max_torque_nm": 145
+      },
+      "transmission": {
+        "type": "دستی",
+        "gears": 5
+      },
+      "performance": {
+        "acceleration_0_100": 13.8,
+        "fuel_combined_consumption_l_100km": 7.8
+      },
+      "safety": {
+        "airbags": 2,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": false
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "هیدرولیک"
+      },
+      "tires": {
+        "size": "185/65R14",
+        "rim_type": "فولادی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "ساده",
+        "ac": "دستی",
+        "power_windows": "جلو"
+      }
+    }
+  },
+  {
+    "id": 2002,
+    "brand_en": "Atlas",
+    "brand_fa": "اطلس",
+    "model_fa": "تیپ 2",
+    "trim": "اتوماتیک",
+    "category": "سدان",
+    "country": "ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1600,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 100,
+        "max_torque_nm": 145
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 4
+      },
+      "performance": {
+        "acceleration_0_100": 15.2,
+        "fuel_combined_consumption_l_100km": 8.8
+      },
+      "safety": {
+        "airbags": 4,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "185/65R14",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "7 اینچ لمسی",
+        "ac": "اتوماتیک",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 2003,
+    "brand_en": "Saipa",
+    "brand_fa": "سایپا",
+    "model_fa": "سهند",
+    "trim": "دستی",
+    "category": "سدان",
+    "country": "ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1500,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 87,
+        "max_torque_nm": 130
+      },
+      "transmission": {
+        "type": "دستی",
+        "gears": 5
+      },
+      "performance": {
+        "acceleration_0_100": 14.5,
+        "fuel_combined_consumption_l_100km": 8.2
+      },
+      "safety": {
+        "airbags": 2,
+        "brakes": "دیسکی جلو/کاسه‌ای عقب",
+        "stability_system": false
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "هیدرولیک"
+      },
+      "tires": {
+        "size": "175/70R13",
+        "rim_type": "فولادی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "ساده",
+        "ac": "دستی",
+        "power_windows": "جلو"
+      }
+    }
+  },
+  {
+    "id": 2004,
+    "brand_en": "Saipa",
+    "brand_fa": "سایپا",
+    "model_fa": "سهند S",
+    "trim": "اتوماتیک",
+    "category": "سدان",
+    "country": "ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1500,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 87,
+        "max_torque_nm": 130
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 4
+      },
+      "performance": {
+        "acceleration_0_100": 16.2,
+        "fuel_combined_consumption_l_100km": 9.2
+      },
+      "safety": {
+        "airbags": 2,
+        "brakes": "دیسکی جلو/کاسه‌ای عقب",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "175/70R13",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "7 اینچ لمسی",
+        "ac": "اتوماتیک",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 2005,
+    "brand_en": "Iran Khodro",
+    "brand_fa": "ایران خودرو",
+    "model_fa": "آریو",
+    "trim": "دستی",
+    "category": "سدان",
+    "country": "ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1600,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 100,
+        "max_torque_nm": 145
+      },
+      "transmission": {
+        "type": "دستی",
+        "gears": 5
+      },
+      "performance": {
+        "acceleration_0_100": 13.5,
+        "fuel_combined_consumption_l_100km": 7.8
+      },
+      "safety": {
+        "airbags": 2,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": false
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "هیدرولیک"
+      },
+      "tires": {
+        "size": "185/65R14",
+        "rim_type": "فولادی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "ساده",
+        "ac": "دستی",
+        "power_windows": "جلو"
+      }
+    }
+  },
+  {
+    "id": 2006,
+    "brand_en": "Iran Khodro",
+    "brand_fa": "ایران خودرو",
+    "model_fa": "آریو پلاس",
+    "trim": "اتوماتیک",
+    "category": "سدان",
+    "country": "ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1600,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 100,
+        "max_torque_nm": 145
+      },
+      "transmission": {
+        "type": "اتوماتیک",
+        "gears": 4
+      },
+      "performance": {
+        "acceleration_0_100": 15.2,
+        "fuel_combined_consumption_l_100km": 8.8
+      },
+      "safety": {
+        "airbags": 4,
+        "brakes": "دیسکی چهار چرخ",
+        "stability_system": true
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "برقی"
+      },
+      "tires": {
+        "size": "185/65R14",
+        "rim_type": "آلومینیومی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "7 اینچ لمسی",
+        "ac": "اتوماتیک",
+        "power_windows": "چهار چرخ"
+      }
+    }
+  },
+  {
+    "id": 2007,
+    "brand_en": "Saipa",
+    "brand_fa": "سایپا",
+    "model_fa": "پراید",
+    "trim": "دستی",
+    "category": "هاچ‌بک",
+    "country": "ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1300,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 75,
+        "max_torque_nm": 110
+      },
+      "transmission": {
+        "type": "دستی",
+        "gears": 5
+      },
+      "performance": {
+        "acceleration_0_100": 16.8,
+        "fuel_combined_consumption_l_100km": 8.5
+      },
+      "safety": {
+        "airbags": 0,
+        "brakes": "دیسکی جلو/کاسه‌ای عقب",
+        "stability_system": false
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "هیدرولیک"
+      },
+      "tires": {
+        "size": "165/70R13",
+        "rim_type": "فولادی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "ساده",
+        "ac": "دستی",
+        "power_windows": "جلو"
+      }
+    }
+  },
+  {
+    "id": 2008,
+    "brand_en": "Saipa",
+    "brand_fa": "سایپا",
+    "model_fa": "پراید 132",
+    "trim": "دستی",
+    "category": "سدان",
+    "country": "ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1300,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 75,
+        "max_torque_nm": 110
+      },
+      "transmission": {
+        "type": "دستی",
+        "gears": 5
+      },
+      "performance": {
+        "acceleration_0_100": 17.2,
+        "fuel_combined_consumption_l_100km": 8.8
+      },
+      "safety": {
+        "airbags": 0,
+        "brakes": "دیسکی جلو/کاسه‌ای عقب",
+        "stability_system": false
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "هیدرولیک"
+      },
+      "tires": {
+        "size": "165/70R13",
+        "rim_type": "فولادی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "ساده",
+        "ac": "دستی",
+        "power_windows": "جلو"
+      }
+    }
+  },
+  {
+    "id": 2009,
+    "brand_en": "Saipa",
+    "brand_fa": "سایپا",
+    "model_fa": "پراید 141",
+    "trim": "دستی",
+    "category": "سدان",
+    "country": "ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1300,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 75,
+        "max_torque_nm": 110
+      },
+      "transmission": {
+        "type": "دستی",
+        "gears": 5
+      },
+      "performance": {
+        "acceleration_0_100": 17.5,
+        "fuel_combined_consumption_l_100km": 9.1
+      },
+      "safety": {
+        "airbags": 0,
+        "brakes": "دیسکی جلو/کاسه‌ای عقب",
+        "stability_system": false
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "هیدرولیک"
+      },
+      "tires": {
+        "size": "165/70R13",
+        "rim_type": "فولادی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "ساده",
+        "ac": "دستی",
+        "power_windows": "جلو"
+      }
+    }
+  },
+  {
+    "id": 2010,
+    "brand_en": "Saipa",
+    "brand_fa": "سایپا",
+    "model_fa": "پراید 151",
+    "trim": "دستی",
+    "category": "سدان",
+    "country": "ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1300,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 75,
+        "max_torque_nm": 110
+      },
+      "transmission": {
+        "type": "دستی",
+        "gears": 5
+      },
+      "performance": {
+        "acceleration_0_100": 17.8,
+        "fuel_combined_consumption_l_100km": 9.2
+      },
+      "safety": {
+        "airbags": 0,
+        "brakes": "دیسکی جلو/کاسه‌ای عقب",
+        "stability_system": false
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "هیدرولیک"
+      },
+      "tires": {
+        "size": "165/70R13",
+        "rim_type": "فولادی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "ساده",
+        "ac": "دستی",
+        "power_windows": "جلو"
+      }
+    }
+  },
+  {
+    "id": 2011,
+    "brand_en": "Saipa",
+    "brand_fa": "سایپا",
+    "model_fa": "پراید 111",
+    "trim": "دستی",
+    "category": "هاچ‌بک",
+    "country": "ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1300,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 75,
+        "max_torque_nm": 110
+      },
+      "transmission": {
+        "type": "دستی",
+        "gears": 5
+      },
+      "performance": {
+        "acceleration_0_100": 16.5,
+        "fuel_combined_consumption_l_100km": 8.2
+      },
+      "safety": {
+        "airbags": 0,
+        "brakes": "دیسکی جلو/کاسه‌ای عقب",
+        "stability_system": false
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "هیدرولیک"
+      },
+      "tires": {
+        "size": "165/70R13",
+        "rim_type": "فولادی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "ساده",
+        "ac": "دستی",
+        "power_windows": "جلو"
+      }
+    }
+  },
+  {
+    "id": 2012,
+    "brand_en": "Saipa",
+    "brand_fa": "سایپا",
+    "model_fa": "پراید 131",
+    "trim": "دستی",
+    "category": "سدان",
+    "country": "ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1300,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 75,
+        "max_torque_nm": 110
+      },
+      "transmission": {
+        "type": "دستی",
+        "gears": 5
+      },
+      "performance": {
+        "acceleration_0_100": 17.0,
+        "fuel_combined_consumption_l_100km": 8.5
+      },
+      "safety": {
+        "airbags": 0,
+        "brakes": "دیسکی جلو/کاسه‌ای عقب",
+        "stability_system": false
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "هیدرولیک"
+      },
+      "tires": {
+        "size": "165/70R13",
+        "rim_type": "فولادی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "ساده",
+        "ac": "دستی",
+        "power_windows": "جلو"
+      }
+    }
+  },
+  {
+    "id": 2013,
+    "brand_en": "Saipa",
+    "brand_fa": "سایپا",
+    "model_fa": "پراید 141 EX",
+    "trim": "دستی",
+    "category": "سدان",
+    "country": "ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1300,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 75,
+        "max_torque_nm": 110
+      },
+      "transmission": {
+        "type": "دستی",
+        "gears": 5
+      },
+      "performance": {
+        "acceleration_0_100": 17.2,
+        "fuel_combined_consumption_l_100km": 8.8
+      },
+      "safety": {
+        "airbags": 0,
+        "brakes": "دیسکی جلو/کاسه‌ای عقب",
+        "stability_system": false
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "هیدرولیک"
+      },
+      "tires": {
+        "size": "165/70R13",
+        "rim_type": "فولادی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "ساده",
+        "ac": "دستی",
+        "power_windows": "جلو"
+      }
+    }
+  },
+  {
+    "id": 2014,
+    "brand_en": "Saipa",
+    "brand_fa": "سایپا",
+    "model_fa": "پراید 151 EX",
+    "trim": "دستی",
+    "category": "سدان",
+    "country": "ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1300,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 75,
+        "max_torque_nm": 110
+      },
+      "transmission": {
+        "type": "دستی",
+        "gears": 5
+      },
+      "performance": {
+        "acceleration_0_100": 17.5,
+        "fuel_combined_consumption_l_100km": 9.0
+      },
+      "safety": {
+        "airbags": 0,
+        "brakes": "دیسکی جلو/کاسه‌ای عقب",
+        "stability_system": false
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "هیدرولیک"
+      },
+      "tires": {
+        "size": "165/70R13",
+        "rim_type": "فولادی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "ساده",
+        "ac": "دستی",
+        "power_windows": "جلو"
+      }
+    }
+  },
+  {
+    "id": 2015,
+    "brand_en": "Saipa",
+    "brand_fa": "سایپا",
+    "model_fa": "پراید 132 EX",
+    "trim": "دستی",
+    "category": "سدان",
+    "country": "ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1300,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 75,
+        "max_torque_nm": 110
+      },
+      "transmission": {
+        "type": "دستی",
+        "gears": 5
+      },
+      "performance": {
+        "acceleration_0_100": 17.0,
+        "fuel_combined_consumption_l_100km": 8.5
+      },
+      "safety": {
+        "airbags": 0,
+        "brakes": "دیسکی جلو/کاسه‌ای عقب",
+        "stability_system": false
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "هیدرولیک"
+      },
+      "tires": {
+        "size": "165/70R13",
+        "rim_type": "فولادی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "ساده",
+        "ac": "دستی",
+        "power_windows": "جلو"
+      }
+    }
+  },
+  {
+    "id": 2016,
+    "brand_en": "Saipa",
+    "brand_fa": "سایپا",
+    "model_fa": "پراید 131 EX",
+    "trim": "دستی",
+    "category": "سدان",
+    "country": "ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1300,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 75,
+        "max_torque_nm": 110
+      },
+      "transmission": {
+        "type": "دستی",
+        "gears": 5
+      },
+      "performance": {
+        "acceleration_0_100": 16.8,
+        "fuel_combined_consumption_l_100km": 8.2
+      },
+      "safety": {
+        "airbags": 0,
+        "brakes": "دیسکی جلو/کاسه‌ای عقب",
+        "stability_system": false
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "هیدرولیک"
+      },
+      "tires": {
+        "size": "165/70R13",
+        "rim_type": "فولادی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "ساده",
+        "ac": "دستی",
+        "power_windows": "جلو"
+      }
+    }
+  },
+  {
+    "id": 2017,
+    "brand_en": "Saipa",
+    "brand_fa": "سایپا",
+    "model_fa": "پراید 111 EX",
+    "trim": "دستی",
+    "category": "هاچ‌بک",
+    "country": "ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1300,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 75,
+        "max_torque_nm": 110
+      },
+      "transmission": {
+        "type": "دستی",
+        "gears": 5
+      },
+      "performance": {
+        "acceleration_0_100": 16.2,
+        "fuel_combined_consumption_l_100km": 8.0
+      },
+      "safety": {
+        "airbags": 0,
+        "brakes": "دیسکی جلو/کاسه‌ای عقب",
+        "stability_system": false
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "هیدرولیک"
+      },
+      "tires": {
+        "size": "165/70R13",
+        "rim_type": "فولادی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "ساده",
+        "ac": "دستی",
+        "power_windows": "جلو"
+      }
+    }
+  },
+  {
+    "id": 2018,
+    "brand_en": "Saipa",
+    "brand_fa": "سایپا",
+    "model_fa": "پراید 132 SLX",
+    "trim": "دستی",
+    "category": "سدان",
+    "country": "ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1300,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 75,
+        "max_torque_nm": 110
+      },
+      "transmission": {
+        "type": "دستی",
+        "gears": 5
+      },
+      "performance": {
+        "acceleration_0_100": 16.8,
+        "fuel_combined_consumption_l_100km": 8.2
+      },
+      "safety": {
+        "airbags": 0,
+        "brakes": "دیسکی جلو/کاسه‌ای عقب",
+        "stability_system": false
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "هیدرولیک"
+      },
+      "tires": {
+        "size": "165/70R13",
+        "rim_type": "فولادی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "ساده",
+        "ac": "دستی",
+        "power_windows": "جلو"
+      }
+    }
+  },
+  {
+    "id": 2019,
+    "brand_en": "Saipa",
+    "brand_fa": "سایپا",
+    "model_fa": "پراید 141 SLX",
+    "trim": "دستی",
+    "category": "سدان",
+    "country": "ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1300,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 75,
+        "max_torque_nm": 110
+      },
+      "transmission": {
+        "type": "دستی",
+        "gears": 5
+      },
+      "performance": {
+        "acceleration_0_100": 17.0,
+        "fuel_combined_consumption_l_100km": 8.5
+      },
+      "safety": {
+        "airbags": 0,
+        "brakes": "دیسکی جلو/کاسه‌ای عقب",
+        "stability_system": false
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "هیدرولیک"
+      },
+      "tires": {
+        "size": "165/70R13",
+        "rim_type": "فولادی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "ساده",
+        "ac": "دستی",
+        "power_windows": "جلو"
+      }
+    }
+  },
+  {
+    "id": 2020,
+    "brand_en": "Saipa",
+    "brand_fa": "سایپا",
+    "model_fa": "پراید 151 SLX",
+    "trim": "دستی",
+    "category": "سدان",
+    "country": "ایران",
+    "technical_specs": {
+      "engine": {
+        "volume_cc": 1300,
+        "breathing": "تنفس طبیعی",
+        "max_power_hp": 75,
+        "max_torque_nm": 110
+      },
+      "transmission": {
+        "type": "دستی",
+        "gears": 5
+      },
+      "performance": {
+        "acceleration_0_100": 17.2,
+        "fuel_combined_consumption_l_100km": 8.8
+      },
+      "safety": {
+        "airbags": 0,
+        "brakes": "دیسکی جلو/کاسه‌ای عقب",
+        "stability_system": false
+      },
+      "chassis": {
+        "front_suspension": "مک فرسون",
+        "steering": "هیدرولیک"
+      },
+      "tires": {
+        "size": "165/70R13",
+        "rim_type": "فولادی"
+      },
+      "features": {
+        "sunroof": false,
+        "display": "ساده",
+        "ac": "دستی",
+        "power_windows": "جلو"
+      }
+    }
+  }
+]
